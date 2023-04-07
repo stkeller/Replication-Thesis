@@ -1,0 +1,6002 @@
+Genre,Cluster k3,Cluster k4,Cluster k5
+country,2,3,2
+adult standards,0,2,1
+adult standards,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+adult standards,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+surf,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+rock,0,2,4
+adult standards,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+jazz,0,2,4
+adult standards,0,2,1
+r&b,0,2,4
+adult standards,0,2,1
+rock,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,1
+rock,0,2,4
+country,0,2,4
+r&b,0,2,4
+rock,0,2,4
+N/A,0,2,4
+surf,0,2,4
+N/A,0,0,1
+N/A,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+hip hop,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+N/A,2,0,1
+adult standards,0,2,4
+N/A,2,0,1
+adult standards,0,2,4
+adult standards,2,3,2
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+adult standards,0,0,1
+hip hop,0,2,1
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+N/A,0,2,1
+adult standards,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+adult standards,2,3,3
+rock,0,2,4
+r&b,0,2,4
+adult standards,2,0,1
+N/A,0,2,4
+pop,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+rock,0,2,4
+adult standards,2,0,1
+adult standards,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+r&b,0,2,4
+rock,0,2,4
+rock,0,0,1
+adult standards,0,0,1
+r&b,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+pop,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+N/A,0,0,1
+N/A,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+r&b,0,2,4
+rock,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,2,3,2
+r&b,2,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+surf,0,2,4
+adult standards,0,0,1
+adult standards,0,0,1
+country,2,3,2
+rock,0,0,1
+adult standards,0,2,4
+r&b,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+N/A,0,0,1
+adult standards,0,2,4
+N/A,0,2,4
+rock,0,2,4
+r&b,2,0,1
+adult standards,0,2,4
+N/A,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,1
+adult standards,0,2,1
+N/A,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+N/A,0,2,4
+soul,0,2,4
+r&b,0,2,4
+N/A,0,2,4
+r&b,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,2,3,2
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+rock,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+pop,0,2,4
+jazz,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,0,1
+r&b,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+r&b,0,2,1
+adult standards,0,2,4
+country,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+rock,2,0,1
+surf,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+soul,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,2,0,2
+adult standards,0,2,4
+funk,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+r&b,2,3,2
+r&b,0,0,1
+adult standards,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+rock,2,0,1
+adult standards,0,0,1
+blues,2,0,1
+N/A,0,2,4
+pop,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+blues,0,2,4
+country,0,2,4
+rock,2,0,2
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+rock,0,2,4
+pop,0,2,4
+funk,0,2,4
+rock,0,0,1
+N/A,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+rock,0,2,4
+rock,0,2,4
+funk,2,0,2
+N/A,0,2,4
+N/A,0,0,1
+adult standards,0,2,4
+r&b,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+pop,0,2,4
+r&b,2,0,1
+r&b,0,2,4
+r&b,0,2,4
+r&b,0,2,4
+rock,2,0,1
+adult standards,0,2,4
+adult standards,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,2,0,2
+adult standards,0,2,4
+adult standards,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+N/A,0,0,1
+adult standards,0,2,4
+rock,0,2,1
+jazz,0,2,4
+rock,0,2,1
+rock,0,2,4
+adult standards,2,3,2
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+pop,0,2,4
+r&b,0,0,1
+rock,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+rock,0,0,1
+r&b,0,2,4
+r&b,0,2,4
+adult standards,0,2,4
+country,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+r&b,0,0,1
+rock,0,2,1
+jazz,0,2,4
+adult standards,0,2,4
+rock,0,2,1
+r&b,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+r&b,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+N/A,0,2,4
+N/A,2,0,1
+country,0,2,4
+N/A,0,2,4
+disco,0,0,1
+N/A,0,2,4
+N/A,0,2,4
+rock,0,2,4
+r&b,0,2,1
+adult standards,0,2,4
+adult standards,0,2,1
+adult standards,2,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+N/A,0,0,1
+r&b,0,2,4
+N/A,0,2,4
+rock,0,2,4
+funk,0,2,4
+adult standards,0,2,1
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+N/A,0,2,4
+jazz,0,2,4
+adult standards,0,2,4
+pop,2,0,2
+adult standards,0,0,1
+adult standards,0,0,1
+r&b,0,2,4
+rock,0,2,4
+jazz,0,2,4
+rock,2,0,2
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,2,1
+r&b,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+country,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,2,3,2
+adult standards,0,0,1
+rock,0,2,4
+N/A,0,2,4
+rock,0,0,1
+N/A,0,0,1
+r&b,0,2,1
+funk,0,2,4
+funk,0,2,4
+adult standards,0,2,1
+N/A,0,2,1
+rock,0,2,4
+N/A,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+N/A,0,2,4
+rock,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+funk,2,0,1
+adult standards,0,2,4
+rock,2,0,2
+N/A,0,2,4
+r&b,0,2,4
+rock,0,0,1
+rock,0,2,4
+surf,0,2,4
+adult standards,0,2,4
+pop,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,0,1
+N/A,0,2,4
+surf,0,2,4
+rock,2,0,1
+adult standards,0,2,1
+adult standards,0,0,1
+rock,2,3,2
+funk,2,0,1
+r&b,0,2,4
+N/A,0,2,4
+N/A,2,0,2
+rock,0,2,1
+r&b,0,2,1
+rock,0,2,4
+r&b,0,2,4
+r&b,0,2,1
+adult standards,0,0,1
+r&b,0,2,4
+adult standards,0,2,4
+soul,0,2,1
+adult standards,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,2,4
+rock,0,2,4
+adult standards,0,2,1
+rock,0,2,4
+adult standards,0,2,1
+rock,0,2,4
+rock,0,2,4
+jazz,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+r&b,0,0,1
+N/A,0,0,1
+rock,0,2,4
+adult standards,0,2,1
+adult standards,2,0,2
+funk,0,2,1
+pop,0,2,4
+adult standards,0,2,4
+adult standards,0,2,1
+adult standards,0,2,4
+soul,0,2,1
+adult standards,0,2,4
+r&b,2,0,1
+country,0,2,4
+soul,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+N/A,2,0,1
+adult standards,0,2,4
+N/A,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+funk,0,2,1
+r&b,0,2,4
+funk,0,2,1
+rock,0,0,1
+adult standards,0,0,1
+adult standards,0,2,1
+pop,0,2,4
+rock,2,3,2
+r&b,0,2,4
+N/A,2,0,2
+r&b,0,2,4
+country,0,2,4
+blues,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+N/A,0,0,1
+soul,0,2,4
+rock,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+rock,2,0,1
+adult standards,0,2,4
+r&b,0,0,1
+N/A,0,2,4
+N/A,0,2,1
+disco,0,2,1
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+funk,0,0,1
+N/A,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+country,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+soul,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+rock,0,0,1
+blues,0,2,4
+pop,0,0,1
+N/A,2,0,2
+disco,2,0,1
+r&b,0,2,4
+rock,0,0,1
+adult standards,0,2,1
+disco,0,2,1
+rock,0,2,4
+surf,0,0,1
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,4
+surf,0,0,1
+r&b,0,0,1
+rock,0,2,4
+N/A,0,2,4
+soul,0,2,1
+rock,0,0,1
+adult standards,0,2,4
+pop,0,2,4
+jazz,2,0,1
+rock,0,2,4
+pop,0,2,4
+rock,0,0,1
+rock,0,2,4
+funk,0,2,4
+disco,0,0,1
+N/A,0,2,4
+adult standards,0,2,4
+surf,0,2,4
+N/A,1,1,0
+rock,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+N/A,0,2,4
+rock,0,0,1
+pop,2,0,2
+r&b,0,2,4
+funk,2,0,2
+disco,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+surf,2,3,2
+soul,0,2,4
+adult standards,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+funk,0,2,4
+pop,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+pop,0,2,4
+N/A,0,2,4
+adult standards,0,2,4
+surf,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+N/A,0,0,1
+r&b,0,2,4
+rock,0,2,1
+adult standards,0,2,1
+N/A,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+pop,0,2,4
+rock,0,2,4
+disco,0,0,1
+rock,0,0,1
+pop,0,2,4
+adult standards,0,0,1
+adult standards,0,0,1
+rock,0,2,1
+adult standards,0,2,1
+rock,0,2,4
+funk,0,2,4
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,4
+r&b,0,2,4
+funk,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,0,1
+disco,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+funk,0,2,4
+adult standards,0,2,4
+rock,2,0,1
+rock,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+funk,0,2,4
+pop,0,0,1
+soul,2,0,2
+adult standards,0,2,1
+disco,0,0,1
+r&b,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+rock,2,0,2
+pop,0,2,4
+adult standards,0,2,4
+adult standards,2,0,2
+rock,0,2,1
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+pop,0,0,1
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+N/A,0,2,4
+funk,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+pop,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+funk,2,0,1
+rock,0,2,4
+pop,0,2,4
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+blues,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+r&b,0,0,1
+adult standards,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+blues,0,2,4
+disco,2,0,1
+adult standards,0,2,4
+N/A,1,1,3
+rock,0,0,1
+rock,0,0,1
+rock,0,0,1
+rock,0,0,1
+pop,0,2,4
+r&b,0,2,4
+rock,0,2,4
+r&b,0,2,4
+dance,0,2,4
+N/A,0,2,4
+adult standards,0,2,1
+pop,0,2,4
+pop,0,0,1
+adult standards,0,2,4
+funk,0,0,1
+rock,0,2,4
+rock,0,2,4
+r&b,0,2,1
+rock,0,0,1
+disco,0,0,1
+pop,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+rock,0,0,1
+N/A,0,2,4
+rock,0,2,4
+adult standards,0,2,1
+disco,2,0,2
+soul,0,2,4
+pop,0,2,4
+rock,0,2,1
+rock,0,0,1
+rock,0,0,1
+funk,2,0,2
+pop,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+rock,0,2,4
+r&b,0,0,1
+r&b,0,2,4
+rock,0,2,4
+soul,0,2,4
+N/A,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+adult standards,0,2,4
+adult standards,0,0,1
+rock,0,2,1
+funk,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+adult standards,0,2,1
+adult standards,0,2,4
+adult standards,0,2,1
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+rock,0,2,4
+funk,0,0,1
+pop,0,2,4
+rock,0,0,1
+rock,2,0,2
+surf,0,2,4
+rock,0,2,4
+rock,0,2,1
+funk,0,0,1
+N/A,0,2,4
+N/A,0,2,4
+rock,0,2,1
+N/A,0,2,4
+pop,0,0,1
+adult standards,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+r&b,0,0,1
+rock,0,2,1
+disco,0,2,4
+disco,0,2,4
+rock,0,2,4
+disco,0,2,4
+rock,2,3,3
+rock,0,0,1
+adult standards,0,2,4
+r&b,0,2,4
+funk,0,2,1
+N/A,0,2,4
+blues,0,2,4
+rock,0,2,4
+adult standards,0,2,1
+pop,0,2,1
+N/A,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+rock,0,2,4
+adult standards,2,0,1
+adult standards,0,2,1
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,0,1
+funk,0,2,4
+rock,2,3,2
+rock,0,2,1
+disco,0,0,1
+adult standards,0,2,4
+rock,0,0,1
+N/A,0,2,4
+rock,0,2,4
+rock,2,0,2
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+rock,0,2,4
+disco,2,0,1
+N/A,0,2,4
+rock,0,2,1
+adult standards,2,0,2
+funk,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+r&b,0,2,4
+N/A,0,2,4
+funk,0,2,1
+rock,0,2,4
+soul,0,2,4
+pop,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+disco,2,0,2
+rock,0,2,4
+soul,0,2,1
+disco,0,0,1
+rock,2,3,2
+adult standards,0,2,4
+r&b,0,0,1
+rock,0,2,4
+soul,0,0,1
+rock,0,0,1
+funk,2,0,1
+pop,0,0,1
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,4
+disco,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+disco,0,2,4
+pop,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+pop,0,2,4
+rock,2,0,1
+adult standards,0,2,4
+rock,0,0,1
+adult standards,0,2,4
+adult standards,0,0,1
+rock,0,0,1
+rock,0,0,1
+funk,0,0,1
+adult standards,0,2,4
+rock,2,0,2
+adult standards,0,0,1
+rock,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+rock,0,2,4
+rock,0,2,4
+disco,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,2,0,1
+disco,0,2,4
+funk,0,2,4
+funk,0,2,4
+rock,0,2,1
+adult standards,0,0,1
+soul,0,2,4
+funk,0,2,4
+rock,0,2,1
+country,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+disco,2,0,1
+rock,0,2,1
+pop,0,0,1
+rock,0,2,1
+rock,0,2,4
+r&b,0,0,1
+rock,0,2,4
+pop,0,2,4
+soul,0,2,4
+rock,0,2,4
+N/A,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+rock,0,2,1
+adult standards,0,2,1
+rock,2,0,1
+adult standards,0,2,1
+rock,0,2,4
+rock,2,3,3
+adult standards,0,2,4
+adult standards,2,0,1
+soul,0,2,4
+pop,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+disco,0,0,1
+country,2,0,1
+r&b,0,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,0,2,1
+rock,0,2,4
+jazz,0,2,4
+rock,0,2,1
+rock,0,2,4
+soul,0,2,4
+funk,0,0,1
+funk,0,2,1
+pop,0,2,4
+pop,0,2,4
+rock,0,2,4
+disco,2,3,2
+pop,0,2,4
+blues,0,2,4
+pop,0,0,1
+rock,0,2,4
+disco,0,2,1
+pop,0,2,1
+rock,0,2,4
+pop,0,2,4
+jazz,0,2,4
+pop,0,2,4
+pop,0,2,4
+rock,0,2,4
+rock,0,2,4
+N/A,0,2,4
+disco,0,2,4
+N/A,0,2,4
+funk,0,2,4
+N/A,0,2,4
+adult standards,2,0,1
+rock,0,2,4
+pop,0,2,4
+pop,2,0,1
+rock,0,2,4
+N/A,2,0,1
+pop,0,2,1
+jazz,0,2,4
+soul,0,0,1
+rock,0,2,4
+rock,0,2,1
+r&b,0,0,1
+funk,0,2,4
+rock,0,2,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+surf,0,2,4
+funk,0,2,4
+funk,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+funk,2,0,1
+jazz,0,2,4
+rock,0,0,1
+rock,0,2,1
+pop,2,0,2
+rock,0,2,4
+adult standards,0,0,1
+funk,0,0,1
+N/A,2,0,1
+rock,2,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+r&b,0,2,1
+soul,0,0,1
+r&b,0,2,4
+funk,0,2,1
+adult standards,0,2,4
+rock,0,2,1
+disco,0,0,1
+rock,0,2,4
+funk,2,3,2
+rock,0,0,1
+r&b,2,0,1
+adult standards,2,0,2
+adult standards,2,0,1
+adult standards,0,2,4
+rock,2,0,2
+rock,0,2,4
+pop,0,2,1
+soul,0,0,1
+soul,2,0,2
+rock,0,2,4
+rock,2,0,2
+funk,2,0,1
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+soul,2,0,2
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+funk,0,2,1
+adult standards,0,2,4
+rock,0,2,1
+soul,2,3,3
+rock,2,0,1
+rock,0,2,4
+funk,0,2,4
+disco,0,0,1
+rock,0,2,4
+hip hop,0,2,4
+rock,0,2,4
+funk,2,3,2
+pop,0,0,1
+rock,0,2,4
+pop,0,2,4
+soul,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+funk,0,2,4
+rock,0,2,4
+N/A,0,2,4
+rock,0,2,1
+country,1,1,3
+r&b,2,0,1
+soul,0,0,1
+rock,0,2,4
+rock,0,2,4
+pop,0,2,4
+rock,0,2,4
+hip hop,0,2,4
+rock,0,0,1
+rock,0,2,1
+pop,0,2,1
+funk,0,2,4
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,1
+adult standards,0,2,4
+rock,0,2,4
+rock,2,3,2
+rock,0,2,4
+N/A,0,2,1
+rock,0,2,4
+funk,2,0,2
+surf,0,2,4
+adult standards,0,2,4
+rock,2,0,1
+pop,2,0,2
+funk,0,2,4
+funk,0,2,4
+disco,0,2,4
+N/A,2,0,2
+N/A,0,0,1
+pop,0,2,4
+funk,2,0,1
+r&b,2,0,1
+rock,0,2,4
+N/A,0,2,4
+funk,2,0,2
+rock,0,2,4
+pop,0,2,1
+soul,0,2,1
+N/A,0,2,4
+rock,2,0,1
+rock,0,2,4
+pop,2,0,2
+rock,0,2,4
+N/A,0,2,4
+funk,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+funk,2,0,2
+funk,2,0,1
+pop,0,2,4
+funk,0,2,4
+disco,0,0,1
+r&b,0,2,4
+N/A,2,3,2
+adult standards,0,2,1
+rock,0,0,1
+rock,0,0,1
+disco,0,0,1
+rock,0,2,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,2,0,1
+adult standards,0,2,4
+r&b,2,0,2
+disco,2,3,3
+adult standards,2,0,1
+rock,0,0,1
+rock,0,2,1
+soul,0,2,1
+rock,2,0,1
+pop,0,0,1
+rock,0,2,4
+pop,0,2,4
+adult standards,2,3,2
+adult standards,2,0,2
+rock,0,0,1
+rock,0,2,1
+rock,0,2,1
+soul,2,0,2
+r&b,0,2,4
+rock,0,2,4
+pop,2,3,2
+funk,2,0,2
+disco,0,2,4
+rock,0,2,4
+r&b,0,0,1
+adult standards,2,3,2
+pop,0,2,1
+rock,0,2,4
+funk,2,0,1
+N/A,0,2,1
+rock,0,2,4
+rock,0,0,1
+funk,2,3,2
+rock,0,2,4
+r&b,0,0,1
+rock,0,2,1
+N/A,0,2,1
+pop,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+soul,0,2,4
+pop,0,2,4
+rock,0,2,4
+pop,0,2,4
+rock,0,2,4
+rock,0,2,4
+funk,0,2,1
+funk,0,0,1
+rock,2,0,2
+blues,2,3,3
+r&b,2,0,1
+rock,0,2,4
+pop,0,2,4
+funk,0,0,1
+disco,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+pop,2,0,2
+soul,2,0,2
+pop,0,2,4
+rock,0,2,4
+pop,0,2,1
+rock,0,0,1
+r&b,0,0,1
+rock,0,2,4
+rock,0,0,1
+funk,0,0,1
+rock,0,2,4
+rock,0,2,4
+soul,0,2,1
+adult standards,0,2,4
+disco,2,0,1
+N/A,0,2,4
+rock,0,2,4
+funk,0,0,1
+rock,0,2,4
+pop,0,0,1
+r&b,0,2,4
+latin,0,2,4
+N/A,0,2,4
+N/A,0,0,1
+N/A,2,3,2
+pop,2,0,1
+disco,0,0,1
+rock,0,2,1
+adult standards,0,2,4
+funk,2,3,2
+adult standards,0,2,4
+N/A,2,3,2
+rock,0,2,1
+disco,0,2,1
+adult standards,0,0,1
+pop,2,0,1
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,1
+rock,2,0,1
+rock,2,0,1
+rock,0,2,4
+pop,0,0,1
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+adult standards,0,2,4
+funk,0,0,1
+adult standards,0,0,1
+rock,2,0,2
+funk,0,0,1
+soul,0,0,1
+funk,0,2,1
+soul,2,0,2
+rock,0,0,1
+soul,0,0,1
+rock,0,2,4
+N/A,0,0,1
+rock,0,0,1
+funk,2,3,2
+N/A,0,0,1
+funk,0,2,4
+rock,2,0,1
+adult standards,0,0,1
+N/A,2,0,2
+N/A,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,2,0,2
+rock,0,0,1
+adult standards,0,2,4
+N/A,0,2,4
+N/A,2,0,2
+rock,2,3,2
+adult standards,0,2,4
+rock,0,2,4
+rock,2,0,1
+pop,0,0,1
+adult standards,2,0,2
+adult standards,0,0,1
+rock,2,0,2
+rock,0,2,4
+rock,0,2,1
+soul,0,2,4
+disco,2,0,1
+rock,0,0,1
+funk,0,2,4
+adult standards,0,2,1
+rock,0,2,4
+pop,0,0,1
+adult standards,2,0,1
+pop,0,0,1
+rock,0,0,1
+funk,1,3,3
+rock,0,2,4
+rock,0,2,4
+N/A,2,0,1
+adult standards,0,0,1
+rock,0,2,1
+rock,0,2,4
+funk,0,2,4
+rock,2,0,2
+pop,2,0,2
+soul,0,0,1
+rock,0,0,1
+rock,0,2,4
+country,0,2,4
+rock,0,2,4
+soul,0,2,1
+pop,0,2,4
+adult standards,0,2,4
+rock,2,0,1
+rock,2,3,2
+pop,0,2,4
+disco,0,2,4
+funk,0,0,1
+adult standards,0,2,1
+rock,0,2,4
+rock,0,2,4
+blues,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,2,0,1
+blues,0,2,4
+adult standards,2,0,2
+N/A,0,2,4
+pop,0,0,1
+disco,0,2,4
+disco,0,0,1
+rock,0,2,4
+N/A,0,2,4
+funk,0,2,4
+rock,0,2,4
+rock,0,2,4
+pop,2,0,1
+soul,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+disco,0,2,4
+rock,0,0,1
+rock,1,1,0
+rock,0,2,4
+adult standards,2,0,2
+N/A,2,0,2
+funk,0,0,1
+rock,0,2,4
+pop,0,2,1
+adult standards,0,2,1
+funk,0,2,4
+rock,2,0,1
+disco,0,2,1
+rock,0,2,1
+rock,2,0,2
+soul,0,0,1
+rock,0,2,4
+disco,0,2,4
+funk,2,3,2
+r&b,0,2,4
+rock,0,2,4
+funk,0,2,4
+N/A,0,2,4
+rock,0,2,1
+pop,2,0,2
+rock,0,2,4
+rock,2,0,2
+N/A,0,2,4
+disco,0,2,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+pop,0,2,4
+soul,2,0,1
+disco,0,0,1
+pop,0,0,1
+rock,0,2,4
+N/A,0,2,4
+rock,0,2,4
+rock,0,0,1
+r&b,0,0,1
+pop,0,2,4
+funk,0,2,4
+rock,0,2,4
+rock,2,0,1
+adult standards,0,2,4
+pop,0,2,4
+rock,0,0,1
+funk,0,2,4
+rock,0,2,1
+funk,0,2,4
+rock,0,2,4
+disco,0,2,4
+funk,0,0,1
+country,0,2,1
+rock,0,0,1
+rock,0,2,4
+disco,0,0,1
+funk,0,2,4
+rock,0,2,4
+adult standards,0,0,1
+pop,0,2,4
+rock,0,0,1
+rock,0,2,1
+rock,0,2,4
+rock,1,3,3
+adult standards,0,2,4
+rock,2,0,2
+rock,2,3,2
+rock,0,2,4
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+soul,0,2,1
+funk,0,2,1
+rock,0,2,4
+funk,2,0,1
+N/A,0,2,1
+funk,0,0,1
+soul,0,2,1
+adult standards,0,0,1
+rock,2,3,2
+N/A,0,2,4
+adult standards,0,2,4
+rock,0,2,1
+N/A,0,2,4
+N/A,0,2,4
+rock,2,0,2
+rock,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+r&b,1,1,0
+rock,0,2,1
+N/A,0,2,4
+disco,0,0,1
+funk,2,0,1
+disco,0,0,1
+adult standards,0,0,1
+rock,0,0,1
+disco,2,0,1
+funk,2,0,2
+rock,0,2,4
+rock,0,2,4
+rock,2,0,2
+funk,0,0,1
+rock,2,0,2
+disco,2,0,2
+pop,2,3,2
+N/A,0,2,4
+N/A,0,2,4
+rock,0,0,1
+disco,0,0,1
+rock,0,2,4
+soul,0,0,1
+rock,0,0,1
+funk,0,2,4
+pop,0,2,1
+disco,0,2,4
+country,0,2,1
+rock,0,0,1
+rock,0,0,1
+N/A,0,2,1
+funk,0,2,4
+rock,0,0,1
+pop,0,2,4
+adult standards,2,0,1
+rock,0,0,1
+rock,0,2,1
+disco,2,0,1
+disco,2,3,2
+adult standards,0,2,4
+disco,2,0,1
+adult standards,0,2,4
+rock,0,2,1
+N/A,2,0,2
+disco,2,0,1
+rock,0,2,4
+rock,0,2,1
+rock,0,2,4
+rock,0,2,4
+disco,0,2,4
+disco,0,2,1
+N/A,0,2,4
+disco,0,0,1
+rock,0,2,4
+disco,2,3,2
+rock,0,2,4
+rock,2,3,2
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+N/A,0,2,4
+rock,0,2,4
+pop,0,2,4
+funk,2,0,2
+rock,1,1,0
+disco,2,0,2
+N/A,0,2,4
+funk,0,2,1
+funk,0,0,1
+N/A,0,2,4
+funk,2,0,1
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+N/A,0,2,4
+rock,0,0,1
+adult standards,2,0,2
+rock,0,2,1
+rock,0,2,1
+rock,0,2,4
+soul,0,2,4
+adult standards,0,2,4
+funk,0,0,1
+rock,0,2,4
+rock,0,2,4
+funk,0,2,4
+rock,0,2,4
+disco,2,0,1
+country,0,2,4
+disco,0,0,1
+rock,0,2,4
+N/A,0,2,4
+adult standards,0,2,1
+disco,0,2,1
+N/A,0,0,1
+funk,0,2,4
+pop,0,2,4
+rock,0,0,1
+N/A,0,2,4
+N/A,0,2,4
+disco,0,2,1
+rock,0,2,4
+rock,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+funk,2,3,2
+adult standards,0,2,4
+pop,2,0,2
+disco,0,2,4
+N/A,2,3,2
+adult standards,2,3,2
+rock,0,0,1
+disco,0,2,4
+pop,1,3,3
+rock,0,0,1
+rock,0,0,1
+adult standards,2,0,1
+disco,0,0,1
+N/A,0,2,4
+disco,0,2,4
+soul,0,0,1
+pop,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+disco,0,0,1
+pop,0,0,1
+pop,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+disco,0,2,1
+rock,0,0,1
+adult standards,0,0,1
+pop,0,0,1
+disco,0,2,1
+rock,0,2,4
+disco,0,2,1
+pop,2,0,1
+disco,0,2,1
+disco,0,2,4
+disco,0,0,1
+funk,0,2,4
+disco,0,2,4
+rock,0,0,1
+rock,2,0,1
+disco,2,0,2
+rock,0,2,1
+disco,2,0,2
+rock,2,0,1
+funk,1,1,3
+pop,2,0,1
+disco,2,0,1
+N/A,0,2,4
+pop,0,2,4
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+disco,2,3,2
+funk,0,2,1
+rock,0,2,4
+adult standards,0,2,1
+disco,0,0,1
+disco,0,2,4
+disco,2,0,1
+pop,0,2,4
+rock,2,3,2
+rock,0,0,1
+rock,2,0,1
+rock,0,2,1
+funk,2,0,2
+disco,2,3,2
+disco,2,3,2
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+rock,2,0,1
+disco,2,3,3
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+pop,0,2,4
+rock,0,0,1
+rock,0,2,4
+N/A,2,0,2
+rock,0,2,4
+N/A,0,2,4
+soul,0,0,1
+funk,2,0,2
+rock,0,2,4
+pop,0,2,1
+rock,0,2,1
+disco,0,2,4
+pop,2,0,2
+N/A,2,0,2
+N/A,0,2,4
+disco,0,2,4
+disco,0,2,4
+rock,0,2,1
+N/A,0,2,4
+disco,0,0,1
+rock,0,2,1
+adult standards,0,2,1
+rock,2,0,2
+pop,0,2,4
+disco,0,0,1
+rock,2,0,2
+disco,0,2,1
+rock,0,2,4
+adult standards,0,2,4
+rock,2,0,1
+adult standards,2,3,2
+rock,0,0,1
+rock,2,0,1
+disco,0,0,1
+disco,0,0,1
+rock,2,0,2
+rock,2,0,2
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+disco,0,2,4
+rock,0,2,4
+disco,2,0,1
+N/A,2,3,2
+soul,2,0,1
+funk,0,2,4
+rock,0,0,1
+pop,0,2,4
+disco,2,3,3
+rock,0,0,1
+disco,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,0,2,1
+rock,2,0,1
+disco,0,2,4
+disco,0,2,4
+disco,0,0,1
+rock,2,3,2
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+pop,0,2,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+pop,0,0,1
+disco,0,0,1
+disco,0,2,1
+rock,0,2,4
+N/A,0,2,4
+funk,0,0,1
+disco,0,2,1
+adult standards,0,2,4
+rock,0,2,1
+jazz,0,2,4
+hip hop,0,2,4
+disco,2,0,1
+disco,2,3,2
+rock,0,2,4
+rock,2,0,1
+rock,0,2,1
+disco,0,2,1
+disco,0,2,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+disco,0,0,1
+disco,0,2,4
+adult standards,0,2,4
+pop,0,2,4
+disco,0,2,4
+soul,1,3,3
+adult standards,0,2,4
+rock,0,2,1
+disco,0,2,4
+disco,2,0,1
+rock,0,2,1
+funk,0,2,4
+rock,0,2,4
+pop,0,2,1
+pop,0,2,4
+disco,2,0,2
+rock,0,0,1
+rock,2,0,2
+rock,0,0,1
+rock,0,0,1
+pop,0,2,4
+rock,2,3,2
+adult standards,0,0,1
+rock,0,0,1
+rock,0,2,1
+rock,0,2,4
+rock,0,2,4
+rock,2,3,2
+disco,1,3,3
+disco,2,0,2
+rock,2,0,2
+pop,2,0,2
+funk,2,0,1
+adult standards,0,0,1
+rock,2,3,2
+disco,0,0,1
+r&b,2,3,2
+rock,2,0,1
+rock,0,2,4
+disco,0,2,4
+rock,0,2,4
+rock,0,2,4
+disco,0,0,1
+disco,0,2,4
+disco,1,3,3
+rock,2,0,1
+disco,0,2,1
+rock,2,0,2
+soul,0,2,4
+disco,2,0,1
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+disco,0,2,4
+rock,0,0,1
+disco,0,2,1
+disco,2,0,2
+pop,2,0,1
+N/A,0,2,4
+disco,0,2,1
+rock,0,2,1
+disco,2,0,2
+rock,2,0,2
+rock,0,2,4
+rock,0,2,4
+rock,2,0,1
+rock,0,2,4
+disco,0,0,1
+rock,0,0,1
+rock,0,2,4
+disco,0,0,1
+pop,0,2,4
+disco,0,2,4
+pop,2,0,1
+disco,0,0,1
+rock,0,2,1
+N/A,0,2,4
+rock,0,2,4
+rock,2,0,1
+rock,0,2,4
+rock,0,2,1
+disco,1,3,3
+rock,0,0,1
+adult standards,0,2,4
+adult standards,2,0,1
+rock,0,0,1
+rock,1,1,3
+rock,0,0,1
+disco,0,2,4
+disco,2,3,2
+disco,2,0,2
+rock,0,2,4
+rock,2,0,2
+pop,2,0,1
+rock,0,0,1
+funk,2,0,2
+rock,0,2,4
+N/A,0,2,4
+disco,0,2,4
+rock,0,0,1
+rock,0,0,1
+N/A,0,0,1
+disco,2,3,3
+N/A,0,2,4
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,2,0,1
+disco,0,2,1
+rock,2,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+disco,0,2,1
+rock,2,0,2
+disco,2,0,1
+rock,0,2,4
+disco,2,0,2
+adult standards,0,2,4
+pop,0,2,4
+rock,2,0,2
+N/A,2,0,2
+disco,2,0,1
+rock,0,2,1
+N/A,0,0,1
+rock,0,0,1
+rock,0,2,4
+adult standards,0,0,1
+rock,0,2,4
+disco,2,0,1
+disco,0,0,1
+adult standards,0,2,4
+N/A,0,0,1
+pop,0,2,1
+disco,0,0,1
+rock,0,2,4
+N/A,2,0,2
+rock,0,0,1
+disco,2,0,2
+pop,0,2,4
+rock,2,0,2
+rock,0,2,1
+rock,0,0,1
+rock,2,0,1
+N/A,0,2,1
+funk,0,0,1
+rock,2,0,1
+funk,1,1,3
+N/A,0,2,4
+adult standards,0,2,4
+rock,2,0,2
+rock,0,2,1
+disco,2,0,1
+disco,0,0,1
+N/A,2,0,1
+rock,0,0,1
+pop,0,2,4
+rock,0,2,1
+rock,0,0,1
+rock,2,0,1
+disco,0,2,4
+N/A,0,2,4
+adult standards,2,0,1
+rock,1,3,3
+disco,0,2,1
+rock,0,2,1
+rock,0,2,1
+disco,2,0,1
+rock,0,2,4
+rock,0,2,4
+adult standards,0,0,1
+rock,0,0,1
+pop,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+funk,0,0,1
+rock,0,2,1
+rock,0,2,4
+disco,0,2,1
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+rock,2,0,1
+adult standards,0,2,4
+adult standards,0,2,1
+rock,2,0,2
+rock,0,2,4
+rock,0,2,4
+disco,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+rock,2,0,1
+rock,0,2,4
+N/A,0,2,4
+disco,2,0,2
+pop,0,0,1
+rock,0,0,1
+disco,0,0,1
+pop,0,2,4
+rock,0,0,1
+rock,0,0,1
+pop,0,2,4
+rock,2,0,1
+disco,1,1,0
+rock,0,2,4
+rock,0,2,4
+disco,2,0,2
+pop,0,2,4
+N/A,1,1,3
+disco,0,2,1
+rock,2,3,2
+rock,0,2,4
+rock,2,0,1
+disco,0,0,1
+rock,0,2,1
+disco,2,0,2
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+pop,0,0,1
+rock,0,2,4
+N/A,0,2,4
+N/A,2,0,2
+disco,2,0,2
+rock,0,0,1
+rock,0,2,4
+rock,2,3,2
+rock,0,2,1
+rock,2,0,2
+reggae,0,2,1
+disco,0,2,4
+disco,0,2,4
+disco,0,2,4
+disco,2,0,1
+rock,0,2,4
+N/A,2,0,1
+N/A,2,0,2
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+rock,2,0,2
+disco,0,0,1
+rock,0,2,4
+jazz,0,2,4
+rock,0,2,4
+rock,0,2,1
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+disco,0,0,1
+disco,0,2,1
+N/A,2,0,2
+rock,2,3,2
+rock,2,0,2
+pop,1,1,0
+rock,0,0,1
+disco,0,2,1
+disco,0,2,4
+rock,2,0,2
+rock,2,0,2
+disco,0,2,4
+rock,0,2,4
+rock,0,2,4
+N/A,0,2,4
+disco,2,3,2
+adult standards,2,0,2
+rock,2,0,1
+disco,2,0,2
+rock,0,0,1
+rock,0,2,4
+rock,0,2,1
+disco,0,0,1
+rock,2,0,2
+rock,0,2,4
+rock,0,2,1
+N/A,0,2,4
+disco,1,3,3
+disco,0,2,4
+rock,0,0,1
+funk,2,3,2
+reggae,0,0,1
+rock,2,0,1
+country,0,2,1
+rock,0,2,4
+rock,0,2,1
+adult standards,0,2,4
+disco,0,0,1
+rock,0,2,1
+rock,0,2,4
+rock,0,0,1
+pop,2,0,2
+N/A,1,3,3
+rock,0,0,1
+adult standards,0,2,4
+rock,0,0,1
+rock,0,2,4
+disco,0,0,1
+disco,0,0,1
+disco,2,0,2
+disco,0,0,1
+rock,0,2,1
+N/A,0,2,4
+disco,2,3,2
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+r&b,0,0,1
+rock,2,3,2
+rock,0,0,1
+disco,0,0,1
+r&b,0,0,1
+rock,0,2,4
+disco,2,0,1
+rock,2,0,2
+rock,0,0,1
+rock,0,0,1
+disco,0,2,1
+rock,0,2,1
+pop,2,3,3
+rock,0,2,4
+rock,0,0,1
+rock,2,0,2
+rock,0,2,1
+disco,2,0,2
+rock,0,2,1
+rock,2,0,2
+disco,2,0,2
+disco,1,3,3
+disco,2,0,1
+disco,2,3,2
+disco,0,0,1
+rock,0,2,4
+rock,2,0,2
+disco,2,0,1
+rock,0,0,1
+N/A,0,2,4
+disco,0,2,4
+rock,2,0,2
+disco,0,0,1
+pop,0,2,1
+rock,0,0,1
+rock,2,0,2
+rock,0,2,1
+disco,0,0,1
+rock,0,0,1
+pop,0,2,4
+disco,2,0,2
+adult standards,0,2,1
+rock,0,0,1
+rock,2,0,1
+rock,0,2,4
+rock,2,3,2
+disco,2,0,1
+disco,0,2,4
+rock,2,0,2
+rock,0,0,1
+adult standards,1,1,0
+rock,2,0,1
+disco,0,2,1
+disco,2,0,1
+disco,2,0,1
+adult standards,2,0,2
+rock,0,2,4
+rock,0,0,1
+disco,0,2,4
+rock,0,0,1
+disco,2,0,1
+rock,0,0,1
+adult standards,0,0,1
+disco,2,3,2
+N/A,0,0,1
+rock,2,0,2
+rock,0,0,1
+rock,2,0,1
+disco,0,0,1
+rock,0,2,4
+rock,0,2,4
+pop,0,0,1
+disco,2,3,2
+disco,2,0,1
+rock,0,2,1
+rock,0,0,1
+rock,0,0,1
+rock,0,0,1
+rock,2,0,1
+disco,0,0,1
+disco,1,1,0
+rock,0,0,1
+rock,0,0,1
+rock,0,0,1
+disco,0,0,1
+disco,0,2,4
+rock,2,0,2
+adult standards,0,2,4
+rock,0,2,1
+rock,2,0,1
+rock,0,0,1
+N/A,0,2,1
+rock,0,2,4
+disco,2,0,1
+rock,0,2,4
+adult standards,0,2,4
+rock,2,0,1
+rock,0,2,1
+rock,0,2,4
+rock,2,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+disco,2,3,3
+r&b,1,1,3
+rock,0,2,4
+disco,0,2,4
+rock,0,2,4
+rock,0,2,4
+N/A,0,2,4
+disco,0,2,4
+disco,0,2,1
+N/A,0,0,1
+rock,0,2,4
+pop,2,0,2
+rock,0,2,4
+disco,0,2,1
+r&b,0,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+disco,2,0,2
+rock,2,0,2
+adult standards,0,2,4
+rock,2,0,2
+rock,0,2,4
+disco,2,0,2
+disco,2,0,2
+rock,0,0,1
+rock,2,0,1
+rock,0,2,1
+disco,2,0,1
+disco,0,2,4
+rock,0,2,4
+N/A,0,2,4
+disco,0,0,1
+disco,0,2,4
+N/A,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,2,3,2
+rock,2,0,1
+disco,2,0,1
+disco,2,3,3
+pop,0,2,4
+rock,0,2,4
+rock,0,2,4
+adult standards,2,0,2
+disco,2,0,2
+disco,2,3,2
+disco,1,3,3
+disco,2,3,2
+pop,0,2,4
+country,2,3,2
+rock,2,0,2
+N/A,2,0,2
+funk,0,2,4
+disco,2,3,3
+adult standards,0,0,1
+disco,2,0,2
+rock,2,0,1
+N/A,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,2,0,2
+disco,0,0,1
+rock,2,0,2
+adult standards,0,2,4
+rock,2,0,2
+rock,2,0,1
+rock,0,2,1
+disco,0,2,1
+rock,0,0,1
+rock,0,0,1
+adult standards,0,2,4
+rock,0,2,4
+disco,2,0,2
+rock,2,0,2
+r&b,0,2,4
+rock,2,0,2
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+N/A,0,2,1
+rock,0,2,4
+disco,0,0,1
+rock,2,0,2
+adult standards,0,2,4
+N/A,0,0,1
+rock,0,2,4
+r&b,2,3,2
+disco,2,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+disco,0,2,1
+rock,0,0,1
+rock,2,0,1
+rock,0,0,1
+rock,2,0,2
+rock,0,0,1
+rock,0,2,4
+disco,1,3,3
+adult standards,0,2,4
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,1
+rock,0,2,1
+rock,0,2,1
+disco,0,2,4
+rock,0,2,4
+rock,0,0,1
+pop,0,2,1
+disco,0,0,1
+adult standards,0,2,4
+rock,0,0,1
+rock,2,0,1
+disco,2,0,2
+rock,2,0,2
+rock,0,0,1
+country,2,0,2
+rock,0,2,4
+rock,0,2,1
+adult standards,0,0,1
+disco,2,0,1
+country,2,0,1
+pop,2,0,2
+rock,2,0,2
+pop,0,2,1
+jazz,2,3,3
+disco,2,0,1
+rock,0,2,4
+rock,0,2,4
+disco,0,2,4
+pop,2,0,1
+disco,2,0,2
+country,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+N/A,2,0,2
+rock,0,2,1
+rock,0,2,1
+rock,0,0,1
+rock,0,2,1
+rock,0,2,4
+adult standards,0,2,1
+adult standards,0,0,1
+rock,0,0,1
+rock,0,0,1
+disco,0,0,1
+rock,0,2,4
+rock,0,2,4
+disco,2,0,1
+rock,2,0,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+country,0,2,4
+rock,0,2,1
+latin,0,0,1
+rock,2,0,2
+adult standards,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,2,0,2
+rock,0,0,1
+rock,2,0,1
+adult standards,2,0,1
+rock,0,2,4
+rock,2,0,1
+rock,0,0,1
+rock,2,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,1
+funk,1,3,3
+rock,0,2,4
+rock,2,0,1
+rock,0,2,4
+funk,0,2,1
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,1
+rock,2,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+N/A,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+disco,0,2,1
+rock,2,0,1
+adult standards,0,0,1
+adult standards,0,2,4
+rock,2,3,3
+rock,0,2,4
+adult standards,2,0,1
+rock,2,0,2
+rock,0,0,1
+disco,2,0,2
+rock,0,2,1
+disco,2,0,1
+disco,0,0,1
+rock,0,0,1
+rock,2,0,2
+N/A,0,2,1
+rock,2,3,3
+rock,2,0,2
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+rock,0,2,4
+pop,0,2,1
+N/A,0,2,4
+rock,0,2,1
+rock,0,2,4
+rock,1,3,3
+rock,0,2,4
+rock,0,2,1
+adult standards,2,3,2
+rock,0,0,1
+rock,2,0,1
+country,0,2,4
+rock,0,2,4
+rock,0,0,1
+disco,2,3,2
+rock,0,2,4
+N/A,2,0,2
+disco,2,0,1
+rock,2,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,2,0,1
+disco,2,3,3
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+rock,0,0,1
+N/A,2,0,2
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+N/A,2,0,1
+funk,0,0,1
+rock,0,0,1
+rock,0,2,4
+disco,0,2,4
+country,0,0,1
+rock,2,0,2
+rock,0,2,4
+rock,2,0,1
+rock,0,0,1
+rock,0,2,1
+rock,2,0,2
+disco,0,2,4
+rock,0,2,1
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,4
+disco,0,2,1
+rock,0,2,4
+rock,0,2,1
+rock,0,2,4
+rock,0,2,4
+adult standards,0,2,4
+rock,2,3,2
+rock,2,3,2
+pop,0,2,4
+rock,0,0,1
+disco,0,2,4
+rock,0,2,1
+disco,2,0,1
+adult standards,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+rock,0,0,1
+rock,2,0,2
+rock,0,2,4
+rock,0,2,4
+rock,2,0,2
+rock,0,2,1
+rock,0,0,1
+disco,1,1,0
+rock,0,2,4
+disco,0,2,1
+disco,1,1,0
+disco,2,0,1
+rock,0,2,4
+rock,0,2,4
+disco,2,3,2
+rock,0,2,1
+pop,2,0,1
+rock,2,0,1
+rock,0,2,4
+rock,0,2,4
+funk,1,1,0
+rock,0,2,1
+rock,0,2,4
+rock,0,0,1
+adult standards,0,0,1
+rock,2,3,2
+rock,2,0,1
+r&b,1,3,3
+rock,0,2,1
+rock,2,0,1
+r&b,2,3,2
+rock,1,3,3
+rock,2,0,1
+rock,2,3,2
+N/A,0,0,1
+rock,0,0,1
+disco,0,0,1
+rock,0,2,4
+pop,2,0,2
+rock,0,2,4
+disco,2,0,2
+jazz,2,0,2
+rock,2,0,1
+rock,0,0,1
+rock,2,3,2
+N/A,0,2,1
+rock,0,2,4
+reggae,2,0,1
+rock,0,0,1
+rock,0,0,1
+rock,2,3,2
+rock,0,2,4
+N/A,0,2,4
+rock,2,0,1
+disco,2,0,2
+N/A,2,3,2
+N/A,2,0,2
+funk,2,0,2
+rock,0,2,4
+disco,0,0,1
+rock,2,0,1
+pop,2,3,3
+rock,2,0,2
+rock,0,2,1
+rock,2,0,1
+adult standards,0,2,1
+rock,2,3,3
+surf,0,2,4
+rock,0,2,1
+rock,2,0,2
+rock,2,3,2
+pop,0,2,4
+disco,0,2,4
+rock,2,3,2
+rock,2,3,2
+pop,0,2,4
+pop,2,0,2
+rock,2,0,1
+N/A,2,0,1
+rock,0,2,4
+rock,2,0,1
+rock,0,0,1
+rock,0,0,1
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+rock,2,0,1
+rock,0,0,1
+rock,0,0,1
+pop,0,2,4
+rock,0,2,4
+rock,2,3,2
+rock,2,0,2
+r&b,1,1,0
+rock,0,2,1
+rock,2,3,2
+rock,0,2,1
+rock,2,0,2
+disco,0,2,4
+rock,2,0,1
+rock,2,0,1
+rock,0,0,1
+disco,0,2,4
+disco,2,0,2
+rock,0,2,4
+disco,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+surf,2,0,2
+rock,0,2,1
+disco,2,0,2
+rock,0,2,4
+rock,0,0,1
+r&b,2,3,2
+rock,0,0,1
+reggae,2,3,3
+N/A,2,0,2
+rock,0,2,4
+rock,0,2,4
+rock,0,2,1
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+disco,2,0,1
+rock,2,0,2
+rock,2,0,1
+rock,2,0,2
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+disco,0,2,4
+rock,0,0,1
+N/A,0,0,1
+disco,0,0,1
+rock,2,0,2
+disco,2,0,2
+disco,2,0,2
+rock,2,0,1
+rock,2,0,1
+rock,2,0,2
+rock,0,0,1
+disco,2,0,2
+rock,2,0,1
+rock,2,0,2
+rock,2,0,2
+rock,2,3,2
+N/A,2,0,2
+disco,0,0,1
+funk,0,0,1
+N/A,2,3,3
+pop,2,0,2
+rock,0,2,4
+disco,0,0,1
+funk,0,0,1
+rock,0,2,1
+disco,0,2,4
+rock,0,0,1
+rock,0,0,1
+pop,2,0,1
+rock,0,0,1
+rock,2,0,1
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+disco,0,0,1
+rock,0,2,1
+rock,0,0,1
+rock,2,3,2
+N/A,0,0,1
+rock,2,0,1
+disco,0,0,1
+N/A,0,0,1
+N/A,0,2,1
+disco,0,2,4
+rock,2,0,2
+disco,0,2,4
+rock,2,0,2
+rock,0,2,1
+adult standards,2,0,2
+rock,0,0,1
+rock,0,2,4
+N/A,0,2,4
+rock,0,2,4
+disco,0,0,1
+rock,0,0,1
+disco,2,3,2
+rock,2,0,1
+rock,0,2,4
+pop,2,0,2
+rock,0,0,1
+rock,2,0,2
+rock,0,2,4
+rock,2,0,2
+pop,0,0,1
+rock,2,0,2
+disco,0,2,1
+rock,0,2,1
+disco,0,0,1
+disco,2,0,2
+N/A,2,0,2
+r&b,2,3,2
+pop,0,2,4
+N/A,0,2,1
+rock,0,2,1
+disco,2,0,1
+rock,0,2,4
+disco,0,2,4
+rock,0,2,4
+rock,2,0,1
+rock,2,0,1
+rock,0,0,1
+rock,2,0,1
+disco,0,0,1
+rock,0,2,1
+disco,0,0,1
+rock,0,0,1
+rock,0,2,4
+rock,2,0,1
+pop,0,2,1
+rock,0,0,1
+rock,0,0,1
+rock,2,0,2
+rock,2,0,1
+pop,2,0,1
+pop,0,2,1
+pop,2,3,2
+rock,2,0,2
+disco,2,3,3
+rock,2,3,2
+pop,0,2,4
+rock,2,3,2
+pop,0,0,1
+pop,0,2,4
+pop,0,0,1
+rock,2,0,2
+rock,2,0,1
+rock,2,0,2
+rock,0,0,1
+rock,2,0,1
+disco,0,0,1
+rock,2,0,2
+rock,0,0,1
+N/A,1,3,3
+pop,2,3,2
+funk,2,0,1
+pop,0,2,1
+rock,0,0,1
+pop,2,3,2
+r&b,1,3,3
+jazz,0,2,4
+disco,0,2,1
+disco,2,0,2
+rock,0,0,1
+r&b,2,0,1
+disco,2,3,2
+rock,0,0,1
+N/A,0,2,4
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+disco,2,0,2
+rock,2,0,1
+disco,0,0,1
+N/A,0,0,1
+N/A,0,2,1
+adult standards,2,3,2
+rock,0,2,1
+rock,0,2,1
+adult standards,0,0,1
+pop,2,0,2
+rock,0,0,1
+disco,2,0,2
+N/A,0,2,4
+rock,2,0,2
+disco,0,2,4
+rock,0,0,1
+pop,2,0,2
+rock,2,0,2
+pop,2,0,2
+rock,0,2,4
+pop,2,0,1
+rock,2,3,2
+pop,0,0,1
+pop,0,2,4
+soul,0,2,4
+disco,2,0,1
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+rock,2,3,2
+rock,0,2,4
+disco,2,0,2
+rock,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+rock,0,0,1
+pop,2,0,2
+pop,2,3,2
+pop,0,2,4
+pop,0,0,1
+pop,2,0,1
+disco,2,0,1
+pop,0,0,1
+rock,0,2,4
+rock,2,3,3
+N/A,0,0,1
+disco,0,0,1
+rock,0,2,1
+rock,0,2,4
+rock,0,2,4
+disco,2,3,2
+disco,0,2,4
+rock,2,3,2
+rock,0,2,1
+rock,2,0,2
+adult standards,2,0,2
+rock,0,0,1
+disco,2,0,2
+rock,2,0,1
+pop,2,0,2
+rock,2,0,1
+adult standards,0,2,1
+disco,2,0,1
+disco,0,2,4
+funk,0,0,1
+rock,0,0,1
+rock,0,0,1
+pop,2,3,2
+N/A,0,0,1
+rock,0,2,1
+rock,0,0,1
+rock,2,0,2
+pop,0,0,1
+disco,0,0,1
+N/A,0,2,4
+adult standards,0,2,1
+rock,2,0,2
+disco,0,0,1
+rock,0,0,1
+rock,2,0,1
+rock,0,0,1
+rock,2,0,2
+rock,2,0,1
+soul,0,2,4
+rock,2,0,2
+rock,0,2,1
+rock,0,2,4
+N/A,0,2,1
+N/A,0,2,4
+pop,0,0,1
+pop,2,0,1
+rock,0,0,1
+disco,2,0,1
+soul,0,2,4
+rock,2,0,1
+rock,0,2,4
+pop,0,0,1
+pop,0,2,4
+rock,0,2,4
+disco,0,2,1
+disco,2,0,1
+pop,0,0,1
+rock,0,2,1
+rock,0,2,4
+soul,2,0,2
+N/A,0,2,1
+N/A,0,0,1
+rock,0,0,1
+pop,0,2,1
+rock,0,0,1
+rock,0,0,1
+rock,2,0,1
+N/A,2,3,2
+pop,0,2,4
+pop,2,0,1
+rock,2,0,1
+soul,0,0,1
+rock,0,2,4
+rock,0,0,1
+soul,0,0,1
+rock,0,0,1
+pop,2,3,3
+funk,0,0,1
+rock,2,0,1
+pop,2,3,2
+rock,2,0,2
+funk,0,0,1
+rock,0,2,4
+r&b,2,3,2
+disco,0,2,1
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+rock,0,2,4
+disco,2,0,2
+rock,2,0,2
+rock,0,0,1
+pop,2,3,2
+N/A,2,3,3
+pop,0,0,1
+pop,0,0,1
+rock,0,2,4
+rock,2,3,2
+rock,2,3,2
+funk,2,3,3
+rock,0,0,1
+rock,0,0,1
+N/A,0,0,1
+rock,0,0,1
+rock,2,0,1
+rock,2,0,2
+funk,0,0,1
+rock,0,2,4
+rock,0,0,1
+disco,0,0,1
+rock,2,0,2
+funk,0,2,4
+N/A,2,0,1
+disco,0,0,1
+pop,0,2,4
+rock,0,2,4
+funk,2,3,2
+rock,0,0,1
+rock,0,2,4
+N/A,2,0,2
+pop,2,3,2
+rock,2,3,2
+pop,2,0,2
+rock,2,0,1
+rock,0,2,1
+rock,0,0,1
+rock,2,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,0,1
+disco,0,0,1
+rock,0,2,4
+disco,0,0,1
+funk,2,0,2
+rock,2,0,2
+rock,2,3,2
+N/A,0,2,4
+rock,0,2,1
+pop,0,0,1
+rock,0,2,4
+pop,1,1,3
+rock,2,0,1
+rock,0,2,1
+N/A,2,0,2
+adult standards,0,2,1
+funk,0,2,1
+pop,2,3,2
+funk,0,0,1
+rock,0,0,1
+pop,1,1,3
+pop,2,0,2
+rock,0,2,4
+adult standards,2,3,2
+soul,2,0,2
+rock,2,0,2
+rock,0,2,4
+rock,2,0,2
+rock,0,2,4
+pop,2,3,2
+pop,0,0,1
+disco,2,0,1
+N/A,2,3,2
+pop,2,3,2
+rock,2,3,2
+soul,0,0,1
+rock,0,0,1
+rock,2,3,2
+rock,0,0,1
+pop,0,0,1
+disco,0,2,4
+rock,2,0,2
+jazz,0,2,4
+rock,0,2,4
+disco,2,0,1
+pop,2,0,2
+r&b,2,3,3
+rock,0,0,1
+rock,0,0,1
+pop,2,0,2
+rock,0,0,1
+rock,2,0,2
+rock,2,0,1
+pop,0,0,1
+rock,0,2,4
+rock,2,0,2
+rock,0,2,4
+rock,0,0,1
+funk,0,0,1
+N/A,2,0,2
+disco,2,0,1
+rock,0,2,1
+rock,2,0,1
+rock,2,0,1
+pop,2,0,1
+rock,2,0,1
+adult standards,0,0,1
+pop,0,0,1
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+rock,2,0,2
+rock,0,0,1
+disco,2,0,1
+rock,2,0,1
+N/A,0,2,4
+pop,2,3,2
+disco,0,2,1
+rock,0,2,4
+rock,0,0,1
+pop,2,3,3
+disco,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+r&b,2,0,2
+pop,0,0,1
+rock,0,0,1
+rock,2,0,2
+pop,2,0,2
+rock,0,0,1
+pop,2,0,2
+pop,2,0,1
+rock,0,2,4
+pop,0,2,4
+rock,0,0,1
+pop,0,0,1
+pop,0,0,1
+N/A,0,0,1
+rock,0,0,1
+disco,2,0,2
+pop,0,0,1
+rock,2,0,1
+N/A,2,3,2
+rock,2,0,2
+pop,0,2,4
+r&b,1,3,3
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+N/A,0,0,1
+pop,2,0,2
+disco,2,0,2
+rock,0,2,4
+rock,2,0,1
+rock,0,2,4
+rock,0,2,4
+pop,2,0,1
+rock,0,2,4
+rock,0,2,4
+r&b,1,3,3
+N/A,0,0,1
+rock,2,0,2
+reggae,1,1,3
+N/A,0,0,1
+rock,2,3,2
+rock,2,0,1
+rock,2,3,2
+pop,0,0,1
+pop,2,3,2
+rock,0,0,1
+rock,0,0,1
+rock,2,0,1
+pop,2,0,1
+rock,1,1,3
+pop,0,2,4
+N/A,0,0,1
+pop,0,0,1
+rock,0,0,1
+disco,2,0,1
+rock,0,2,4
+pop,2,0,1
+pop,0,0,1
+funk,2,0,1
+N/A,1,3,3
+r&b,2,3,2
+N/A,0,0,1
+N/A,2,0,2
+rock,0,2,1
+rock,0,2,1
+N/A,0,0,1
+r&b,2,3,2
+pop,2,0,1
+adult standards,0,0,1
+rock,0,0,1
+rock,0,0,1
+rock,2,0,1
+rock,2,0,1
+r&b,2,3,2
+adult standards,2,0,2
+N/A,2,3,2
+rock,0,0,1
+rock,0,2,4
+funk,1,1,0
+rock,0,2,1
+jazz,0,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,2,0,1
+rock,0,2,4
+funk,2,0,2
+rock,2,0,2
+pop,0,0,1
+N/A,0,0,1
+pop,2,0,1
+rock,2,0,1
+N/A,0,2,1
+pop,0,2,1
+rock,0,2,4
+rock,0,2,4
+rock,2,0,1
+rock,2,0,1
+rock,0,0,1
+pop,0,2,4
+rock,2,0,2
+funk,2,3,3
+rock,0,0,1
+rock,2,3,2
+soul,2,3,2
+rock,2,0,2
+adult standards,0,0,1
+N/A,2,0,2
+N/A,0,0,1
+funk,2,0,1
+rock,0,2,4
+pop,0,0,1
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+N/A,0,0,1
+rock,2,3,2
+rock,0,2,4
+funk,1,3,3
+rock,0,2,4
+N/A,2,0,2
+rock,0,0,1
+rock,2,3,2
+soul,0,2,1
+pop,2,3,3
+N/A,0,0,1
+pop,0,0,1
+N/A,2,0,2
+pop,0,0,1
+rock,2,3,2
+rock,2,0,1
+rock,2,0,1
+N/A,2,3,2
+rock,2,0,1
+pop,2,0,2
+pop,1,3,3
+rock,0,2,4
+pop,0,0,1
+rock,2,3,2
+rock,0,2,4
+adult standards,2,3,2
+hip hop,1,3,3
+rock,2,0,2
+rock,2,3,2
+N/A,0,2,4
+disco,0,0,1
+rock,2,3,2
+funk,2,3,3
+N/A,0,0,1
+rock,2,0,1
+rock,0,2,1
+N/A,2,0,2
+rock,2,3,2
+rock,0,2,1
+pop,2,3,2
+rock,2,0,2
+adult standards,2,0,1
+pop,1,3,3
+pop,2,3,3
+rock,0,2,4
+rock,0,0,1
+rock,0,2,1
+rock,2,0,2
+r&b,1,3,3
+N/A,2,3,2
+rock,0,2,4
+adult standards,2,0,1
+rock,0,2,4
+r&b,2,3,2
+rock,0,2,1
+rock,2,0,1
+rock,2,0,2
+N/A,0,0,1
+rock,2,0,1
+soul,0,2,1
+rock,2,0,1
+rock,0,0,1
+rock,0,2,4
+adult standards,0,0,1
+funk,2,3,3
+rock,2,3,2
+rock,0,2,4
+pop,2,0,1
+pop,0,2,4
+N/A,0,2,4
+rock,1,3,3
+disco,1,3,3
+pop,0,2,4
+adult standards,0,2,4
+hip hop,0,2,1
+rock,0,0,1
+disco,0,2,1
+r&b,2,3,3
+pop,0,0,1
+funk,2,0,1
+pop,0,2,4
+pop,2,3,3
+rock,0,2,4
+rock,0,0,1
+disco,0,0,1
+pop,2,3,2
+rock,0,0,1
+pop,0,2,4
+r&b,2,3,3
+pop,2,3,2
+pop,0,2,4
+rock,0,0,1
+r&b,2,3,2
+rock,2,0,2
+rock,2,0,2
+r&b,2,0,1
+rock,0,0,1
+pop,2,3,3
+rock,2,3,2
+soul,2,3,2
+rock,2,0,2
+rock,2,3,3
+rock,0,2,1
+pop,2,0,1
+rock,0,2,4
+disco,2,3,2
+N/A,0,0,1
+funk,2,3,3
+rock,2,0,2
+N/A,0,0,1
+pop,2,3,2
+rock,2,0,1
+pop,0,0,1
+pop,0,0,1
+N/A,2,0,2
+N/A,0,0,1
+rock,0,0,1
+N/A,2,0,1
+rock,2,0,1
+rock,2,3,3
+rock,0,2,1
+rock,0,0,1
+soul,2,3,2
+r&b,2,0,2
+rock,1,1,3
+disco,0,2,1
+soul,2,0,2
+funk,0,2,4
+soul,2,3,3
+hip hop,1,3,3
+N/A,2,0,2
+hip hop,1,3,3
+pop,0,2,4
+soul,0,2,1
+pop,0,2,1
+pop,0,0,1
+rock,2,3,2
+rock,2,0,1
+funk,2,0,2
+hip hop,1,3,3
+rock,0,0,1
+rock,2,0,2
+rock,2,0,2
+soul,2,0,1
+funk,2,3,2
+rock,2,0,2
+funk,1,1,0
+pop,0,0,1
+rock,2,0,1
+N/A,1,1,0
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+N/A,2,3,2
+N/A,2,0,1
+rock,0,2,4
+rock,2,0,1
+pop,2,3,2
+rock,0,0,1
+rock,2,3,2
+pop,0,2,1
+pop,2,3,2
+rock,2,3,2
+N/A,2,0,1
+rock,2,0,1
+pop,2,0,1
+rock,2,0,2
+hip hop,0,2,1
+pop,0,0,1
+dance,2,0,1
+rock,2,3,3
+N/A,0,2,4
+rock,0,0,1
+r&b,0,0,1
+N/A,0,0,1
+rock,2,3,2
+rock,0,0,1
+rock,1,1,0
+hip hop,1,1,3
+pop,2,3,2
+rock,0,0,1
+N/A,2,0,1
+rock,0,0,1
+hip hop,1,3,3
+N/A,2,3,2
+rock,0,0,1
+r&b,2,0,2
+dance,2,0,2
+rock,2,3,2
+dance,0,2,1
+rock,2,0,1
+rock,0,0,1
+r&b,2,0,2
+soul,0,2,4
+adult standards,0,2,4
+r&b,2,3,2
+N/A,0,2,4
+pop,2,0,2
+rock,0,0,1
+adult standards,0,2,1
+pop,0,0,1
+rock,0,2,4
+r&b,0,0,1
+soul,2,0,2
+N/A,2,0,2
+pop,0,2,1
+pop,0,2,1
+rock,0,0,1
+r&b,2,0,2
+N/A,2,0,2
+pop,2,0,1
+pop,0,0,1
+adult standards,0,0,1
+r&b,2,3,2
+dance,0,0,1
+pop,0,2,4
+N/A,2,0,2
+rock,0,0,1
+rock,2,0,2
+rock,0,0,1
+dance,1,1,0
+pop,0,0,1
+hip hop,2,3,3
+rock,0,0,1
+N/A,2,0,1
+rock,2,3,2
+pop,1,3,3
+rock,0,2,1
+rock,2,0,1
+r&b,2,0,1
+rock,0,2,4
+funk,1,3,3
+pop,0,2,1
+rock,0,0,1
+rock,2,0,1
+dance,1,1,0
+rock,0,0,1
+pop,2,3,2
+N/A,2,3,2
+rock,0,2,1
+rock,0,0,1
+hip hop,1,1,3
+reggae,2,0,2
+rock,2,0,1
+r&b,0,0,1
+dance,0,2,4
+rock,2,0,2
+latin,0,2,4
+hip hop,1,3,3
+N/A,0,0,1
+rock,0,2,1
+r&b,1,3,3
+rock,0,2,1
+pop,0,2,1
+pop,2,0,1
+reggae,2,0,2
+reggae,0,2,1
+rock,2,0,1
+dance,0,0,1
+soul,2,0,2
+r&b,2,3,2
+rock,0,2,1
+rock,2,3,2
+N/A,0,0,1
+soul,0,2,1
+r&b,2,0,1
+rock,0,0,1
+N/A,0,2,4
+N/A,0,2,4
+rock,0,0,1
+soul,0,0,1
+dance,2,0,1
+pop,2,0,2
+latin,2,3,2
+rock,0,0,1
+dance,2,3,2
+rock,0,0,1
+pop,0,2,1
+hip hop,1,1,0
+pop,1,1,0
+rock,0,0,1
+rock,0,0,1
+hip hop,0,0,1
+rock,2,3,2
+rock,0,0,1
+r&b,1,1,3
+hip hop,1,1,0
+hip hop,1,1,3
+adult standards,0,2,1
+r&b,1,3,3
+rock,0,2,4
+r&b,1,1,0
+rock,0,0,1
+r&b,2,3,2
+rock,0,0,1
+r&b,2,3,3
+rock,2,0,1
+pop,0,2,1
+r&b,2,0,2
+rock,0,0,1
+pop,0,0,1
+rock,2,0,2
+rock,2,0,2
+r&b,2,3,2
+disco,2,0,2
+pop,0,0,1
+rock,0,0,1
+pop,0,0,1
+hip hop,1,3,3
+rock,2,0,2
+pop,0,0,1
+disco,2,3,2
+pop,2,0,1
+r&b,2,0,2
+r&b,1,3,3
+r&b,2,3,2
+rock,0,2,1
+funk,1,1,0
+rock,2,3,2
+r&b,0,0,1
+r&b,1,1,0
+r&b,0,2,4
+pop,1,3,3
+rock,2,0,2
+hip hop,2,3,2
+funk,1,1,3
+pop,2,3,3
+rock,0,2,1
+r&b,2,3,3
+pop,0,2,4
+rock,1,1,0
+pop,0,0,1
+funk,0,0,1
+N/A,2,0,2
+r&b,0,0,1
+r&b,2,0,1
+adult standards,0,2,4
+rock,0,2,4
+rock,0,2,4
+rock,0,0,1
+rock,0,2,4
+rock,0,0,1
+pop,2,3,2
+N/A,0,2,4
+rock,0,0,1
+disco,2,3,2
+rock,0,2,4
+r&b,2,3,2
+rock,0,2,4
+hip hop,1,3,3
+r&b,1,1,3
+hip hop,2,0,2
+rock,2,3,2
+N/A,2,3,3
+rock,0,2,4
+rock,0,2,1
+rock,0,0,1
+rock,2,0,2
+rock,2,0,1
+pop,0,2,1
+rock,1,1,0
+rock,2,0,1
+hip hop,2,3,3
+N/A,0,0,1
+rock,2,0,1
+rock,0,2,1
+rock,0,2,1
+hip hop,0,0,1
+r&b,2,0,2
+soul,2,3,2
+dance,0,0,1
+r&b,2,0,2
+r&b,1,1,3
+r&b,0,2,1
+soul,1,3,3
+adult standards,0,0,1
+rock,0,2,4
+r&b,2,0,2
+r&b,0,0,1
+rock,0,2,4
+adult standards,0,2,4
+disco,2,3,3
+rock,2,3,3
+hip hop,1,1,3
+rock,0,2,4
+pop,0,2,4
+N/A,1,1,0
+reggae,0,2,4
+soul,2,3,3
+soul,2,3,2
+r&b,2,3,3
+r&b,0,0,1
+pop,0,2,1
+dance,1,1,3
+hip hop,1,1,0
+funk,1,1,0
+r&b,0,0,1
+hip hop,2,0,2
+r&b,1,3,3
+r&b,2,0,1
+N/A,1,1,3
+pop,0,0,1
+N/A,0,0,1
+soul,2,3,3
+r&b,2,3,3
+r&b,0,2,1
+rock,0,0,1
+pop,0,0,1
+N/A,1,1,0
+pop,0,0,1
+rock,0,0,1
+rock,2,3,3
+rock,2,3,2
+r&b,1,1,3
+pop,0,0,1
+hip hop,0,0,1
+rock,0,2,1
+r&b,0,0,1
+rock,0,0,1
+funk,2,0,2
+rock,1,1,0
+hip hop,1,3,3
+r&b,2,3,2
+pop,2,0,1
+r&b,2,0,2
+rock,0,0,1
+rock,2,0,2
+r&b,2,0,1
+N/A,1,1,0
+hip hop,1,1,3
+r&b,2,3,2
+r&b,2,0,2
+r&b,0,0,1
+funk,2,3,3
+rock,2,0,2
+pop,0,0,1
+rock,2,3,2
+funk,1,1,0
+r&b,0,2,1
+r&b,2,0,2
+funk,1,1,0
+rock,2,0,2
+soul,2,3,2
+jazz,2,3,2
+rock,2,3,2
+rock,2,3,2
+r&b,1,1,3
+hip hop,1,1,0
+r&b,2,3,2
+hip hop,2,3,2
+pop,2,3,2
+pop,2,3,2
+N/A,2,0,1
+reggae,2,3,3
+N/A,0,0,1
+rock,2,0,1
+rock,0,2,4
+jazz,0,2,4
+soul,0,2,1
+hip hop,1,3,3
+rock,0,2,4
+reggae,2,3,3
+funk,2,3,3
+dance,2,0,1
+N/A,0,2,4
+hip hop,1,3,3
+pop,0,0,1
+rock,0,2,4
+r&b,2,3,3
+hip hop,1,1,0
+funk,1,1,0
+rock,0,2,4
+rock,0,0,1
+N/A,2,0,1
+rock,0,0,1
+pop,2,0,2
+N/A,2,3,2
+rock,2,3,2
+rock,2,3,2
+rock,2,0,1
+rock,0,2,1
+funk,2,0,1
+hip hop,2,3,3
+pop,2,3,2
+rock,0,2,1
+pop,0,0,1
+r&b,0,0,1
+r&b,2,0,2
+pop,0,0,1
+pop,0,2,1
+rock,0,0,1
+r&b,2,3,2
+rock,2,0,1
+pop,0,0,1
+pop,2,0,2
+N/A,2,0,1
+soul,0,2,1
+pop,0,2,1
+hip hop,1,1,0
+rock,0,2,1
+pop,2,3,3
+r&b,2,0,2
+rock,0,2,4
+rock,0,0,1
+funk,1,1,3
+reggae,2,0,2
+funk,1,3,3
+rock,2,0,1
+r&b,1,1,3
+rock,0,2,4
+hip hop,0,2,1
+rock,2,0,2
+r&b,0,0,1
+hip hop,1,1,3
+soul,2,0,1
+rock,0,0,1
+rock,0,0,1
+latin,0,2,4
+N/A,2,3,2
+rock,0,2,4
+r&b,2,0,1
+r&b,2,3,2
+rock,1,1,0
+hip hop,1,3,3
+pop,0,2,1
+jazz,2,0,2
+N/A,1,1,0
+rock,0,0,1
+r&b,2,0,2
+r&b,0,0,1
+disco,1,1,0
+pop,2,0,1
+soul,2,0,2
+rock,0,0,1
+pop,2,3,2
+rock,0,0,1
+funk,1,1,3
+r&b,2,0,2
+rock,0,2,4
+funk,2,0,2
+funk,0,2,1
+r&b,2,3,3
+r&b,2,3,2
+funk,1,3,3
+r&b,2,0,2
+funk,1,1,0
+funk,1,3,3
+dance,2,3,2
+N/A,2,3,2
+N/A,1,1,3
+reggae,0,2,4
+hip hop,0,0,1
+rock,2,0,1
+r&b,2,0,2
+r&b,0,0,1
+rock,2,3,3
+rock,0,0,1
+pop,0,0,1
+r&b,2,0,2
+pop,2,0,2
+pop,1,3,3
+rock,0,0,1
+r&b,0,2,4
+N/A,0,2,4
+N/A,0,0,1
+hip hop,1,3,3
+hip hop,1,1,0
+soul,0,0,1
+pop,0,0,1
+reggae,2,3,2
+rock,0,0,1
+country,0,0,1
+r&b,1,3,3
+adult standards,0,0,1
+country,0,0,1
+rock,2,0,2
+rock,2,0,2
+hip hop,1,1,0
+rock,0,2,4
+pop,2,0,2
+r&b,1,3,3
+pop,0,0,1
+hip hop,2,0,2
+funk,1,1,0
+r&b,1,3,3
+funk,2,3,3
+r&b,1,3,3
+r&b,2,3,2
+soul,2,3,2
+r&b,2,3,2
+dance,2,3,2
+pop,0,0,1
+pop,2,0,2
+r&b,2,3,2
+r&b,1,1,3
+soul,0,2,1
+r&b,0,2,1
+r&b,1,3,3
+rock,2,3,2
+r&b,2,0,2
+rock,2,0,1
+rock,2,0,2
+reggae,1,3,3
+pop,2,3,3
+rock,2,3,2
+r&b,2,0,2
+rock,2,0,2
+hip hop,1,1,0
+reggae,2,3,2
+r&b,0,2,4
+rock,2,0,2
+rock,0,0,1
+r&b,2,0,2
+soul,0,0,1
+N/A,0,2,4
+adult standards,0,0,1
+hip hop,0,0,1
+rock,2,0,1
+r&b,2,0,1
+N/A,0,2,1
+funk,1,1,0
+r&b,1,3,3
+dance,2,0,1
+rock,2,0,1
+r&b,2,3,2
+rock,0,0,1
+N/A,1,3,3
+reggae,1,3,3
+rock,2,0,2
+r&b,2,3,2
+r&b,2,3,2
+hip hop,1,1,0
+r&b,0,2,4
+r&b,1,3,3
+r&b,2,0,2
+funk,1,1,3
+N/A,0,2,4
+funk,1,1,0
+dance,2,0,1
+pop,0,2,4
+r&b,2,3,2
+r&b,1,3,3
+hip hop,1,1,0
+rock,0,2,4
+N/A,0,0,1
+rock,0,2,1
+pop,0,0,1
+N/A,1,1,3
+soul,2,0,2
+r&b,2,3,2
+r&b,1,1,3
+N/A,2,3,2
+N/A,2,3,3
+dance,2,3,2
+rock,2,0,2
+pop,0,0,1
+hip hop,1,1,3
+hip hop,1,3,3
+hip hop,2,3,3
+adult standards,0,2,4
+N/A,2,3,3
+country,0,0,1
+rock,0,2,1
+r&b,2,0,2
+r&b,2,0,1
+rock,0,2,4
+disco,1,1,0
+funk,2,3,2
+r&b,1,3,3
+rock,0,2,4
+funk,2,3,2
+rock,0,0,1
+funk,2,3,2
+hip hop,1,1,0
+rock,2,0,2
+rock,0,2,1
+N/A,0,0,1
+pop,2,0,2
+r&b,0,0,1
+rock,1,3,3
+N/A,0,0,1
+r&b,2,3,3
+r&b,1,3,3
+rock,0,2,4
+rock,0,0,1
+latin,0,0,1
+hip hop,0,0,1
+pop,2,3,2
+r&b,2,0,1
+pop,2,3,2
+N/A,0,0,1
+hip hop,1,1,0
+pop,2,0,1
+r&b,2,0,2
+r&b,2,3,3
+N/A,1,1,0
+rock,0,0,1
+rock,2,0,1
+pop,0,0,1
+rock,0,2,1
+r&b,2,0,1
+funk,1,1,0
+pop,1,3,3
+rock,0,2,4
+hip hop,1,1,3
+hip hop,1,3,3
+N/A,0,2,1
+dance,2,3,2
+rock,0,2,1
+N/A,2,0,2
+dance,2,0,1
+N/A,2,0,1
+rock,0,2,1
+rock,2,0,2
+rock,0,2,1
+N/A,0,2,1
+soul,1,3,3
+funk,2,3,3
+r&b,1,1,0
+funk,0,2,4
+r&b,2,0,1
+dance,0,2,4
+r&b,2,0,2
+rock,0,0,1
+funk,1,1,3
+rock,0,2,4
+rock,1,1,0
+rock,2,0,1
+rock,0,2,1
+r&b,2,3,2
+r&b,2,3,3
+r&b,2,3,2
+pop,2,0,1
+pop,0,0,1
+rock,2,0,2
+pop,0,2,4
+r&b,2,0,2
+N/A,2,0,1
+r&b,0,2,4
+hip hop,1,3,3
+pop,0,0,1
+hip hop,1,1,0
+r&b,2,3,2
+hip hop,1,1,3
+rock,2,0,2
+hip hop,1,1,0
+pop,2,0,1
+r&b,2,0,2
+hip hop,2,0,2
+dance,0,0,1
+country,0,2,4
+rock,0,2,4
+rock,0,0,1
+r&b,2,3,3
+funk,2,3,3
+rock,0,0,1
+r&b,2,0,2
+r&b,2,0,2
+rock,2,0,1
+N/A,0,0,1
+rock,2,0,1
+r&b,1,1,3
+N/A,0,2,4
+rock,0,0,1
+r&b,1,3,3
+r&b,2,0,1
+pop,2,0,1
+N/A,2,3,2
+soul,0,0,1
+dance,0,0,1
+r&b,2,3,2
+r&b,2,3,3
+N/A,2,3,2
+hip hop,1,1,3
+reggae,2,0,2
+N/A,1,1,0
+rock,0,0,1
+hip hop,1,1,3
+pop,2,0,2
+pop,0,0,1
+rock,0,2,4
+r&b,2,0,2
+latin,2,0,2
+rock,2,0,1
+soul,0,0,1
+rock,0,0,1
+N/A,0,2,1
+N/A,1,3,3
+r&b,2,0,1
+hip hop,1,1,0
+N/A,2,0,1
+r&b,2,0,2
+soul,2,3,2
+country,0,0,1
+pop,2,3,3
+pop,2,0,2
+rock,2,3,3
+r&b,2,3,2
+r&b,1,1,0
+N/A,2,0,1
+r&b,2,0,2
+rock,1,3,3
+rock,2,0,1
+adult standards,0,2,4
+hip hop,1,1,3
+rock,2,0,2
+pop,2,3,2
+rock,1,1,0
+N/A,2,0,1
+hip hop,1,1,0
+hip hop,2,0,1
+r&b,2,3,2
+pop,2,3,2
+pop,2,0,1
+r&b,2,3,2
+r&b,2,3,3
+pop,1,1,3
+pop,0,2,4
+hip hop,1,1,0
+pop,2,0,1
+rock,0,0,1
+r&b,2,0,2
+pop,0,0,1
+rock,0,2,4
+country,0,0,1
+pop,2,0,2
+N/A,2,0,1
+r&b,2,0,2
+r&b,2,3,3
+rock,2,0,2
+hip hop,1,1,0
+hip hop,1,1,0
+r&b,2,0,2
+pop,0,2,4
+pop,1,3,3
+N/A,2,0,2
+dance,2,0,1
+rock,0,2,1
+r&b,1,1,3
+N/A,0,0,1
+r&b,1,3,3
+rock,0,2,4
+hip hop,1,1,0
+r&b,1,3,3
+N/A,0,0,1
+r&b,1,3,3
+r&b,2,0,2
+pop,0,2,1
+pop,2,0,1
+N/A,0,0,1
+funk,1,1,0
+rock,0,2,4
+hip hop,1,1,0
+N/A,1,1,0
+N/A,2,0,2
+r&b,2,0,2
+funk,2,3,2
+r&b,2,3,2
+r&b,1,3,3
+hip hop,1,1,0
+r&b,0,2,4
+rock,0,2,4
+r&b,2,0,2
+soul,0,0,1
+hip hop,1,1,0
+pop,2,3,2
+latin,0,0,1
+r&b,2,3,2
+hip hop,2,3,2
+funk,2,3,3
+r&b,1,3,3
+pop,0,2,1
+N/A,2,3,3
+rock,0,2,1
+dance,2,3,2
+r&b,1,3,3
+pop,2,0,2
+r&b,2,3,3
+pop,2,0,2
+rock,0,2,4
+hip hop,1,1,3
+N/A,1,1,0
+r&b,2,0,2
+pop,0,2,4
+r&b,0,0,1
+r&b,2,3,2
+r&b,1,1,0
+country,0,0,1
+pop,2,0,1
+country,0,0,1
+soul,2,3,2
+r&b,2,3,2
+rock,0,0,1
+r&b,2,3,2
+pop,2,3,2
+rock,0,0,1
+pop,1,1,0
+pop,0,2,4
+hip hop,1,1,3
+r&b,1,1,0
+r&b,2,3,3
+pop,0,2,1
+r&b,1,1,3
+hip hop,1,1,0
+pop,0,2,1
+N/A,2,0,1
+pop,0,0,1
+rock,2,0,2
+r&b,1,1,0
+country,2,0,1
+r&b,1,1,3
+r&b,2,3,3
+rock,0,2,4
+pop,2,0,2
+r&b,2,0,2
+hip hop,1,1,0
+pop,0,2,1
+hip hop,1,3,3
+N/A,2,3,3
+N/A,1,1,0
+N/A,1,1,0
+pop,0,0,1
+rock,0,2,4
+hip hop,2,3,2
+hip hop,1,1,0
+pop,2,3,2
+pop,1,1,0
+soul,2,3,2
+r&b,1,1,0
+r&b,2,0,1
+N/A,0,0,1
+hip hop,1,3,3
+N/A,2,3,2
+r&b,0,0,1
+rock,0,2,4
+rock,1,3,3
+N/A,2,0,2
+r&b,2,0,2
+N/A,2,0,2
+r&b,1,1,0
+r&b,2,3,3
+rock,1,3,3
+rock,0,0,1
+hip hop,1,1,0
+country,0,2,1
+hip hop,2,0,2
+pop,2,0,2
+r&b,2,3,3
+rock,2,0,1
+N/A,2,3,2
+pop,0,0,1
+hip hop,1,1,0
+hip hop,1,1,0
+pop,2,0,1
+N/A,1,3,3
+r&b,0,2,1
+r&b,1,1,3
+hip hop,1,1,0
+rock,0,0,1
+pop,0,2,4
+rock,0,0,1
+r&b,1,3,3
+hip hop,1,1,0
+rock,2,3,2
+hip hop,1,1,0
+pop,2,3,3
+rock,0,2,4
+N/A,0,2,1
+r&b,2,0,2
+N/A,1,1,3
+r&b,2,0,2
+N/A,0,2,1
+rock,0,2,1
+funk,1,1,3
+country,2,3,2
+r&b,2,0,2
+hip hop,1,1,3
+pop,1,1,3
+r&b,1,3,3
+adult standards,2,3,2
+r&b,2,3,2
+hip hop,1,3,3
+r&b,0,0,1
+r&b,0,0,1
+r&b,1,1,0
+pop,2,0,2
+r&b,1,3,3
+r&b,2,0,1
+r&b,1,1,3
+pop,0,0,1
+rock,0,2,4
+pop,2,3,3
+rock,2,0,1
+r&b,0,0,1
+pop,2,0,2
+r&b,2,3,2
+hip hop,1,3,3
+rock,2,0,1
+r&b,2,0,2
+pop,0,0,1
+N/A,2,3,2
+rock,2,3,2
+pop,0,2,1
+rock,2,0,2
+r&b,2,3,2
+pop,1,1,3
+rock,0,0,1
+rock,0,2,1
+funk,0,2,1
+pop,2,3,2
+pop,0,2,1
+soul,1,1,0
+rock,2,3,3
+rock,0,2,1
+rock,0,2,1
+hip hop,2,0,2
+country,2,0,2
+r&b,1,1,0
+rock,0,0,1
+r&b,1,1,0
+pop,0,2,1
+rock,2,3,2
+N/A,1,1,0
+hip hop,1,1,0
+rock,2,0,1
+r&b,1,1,0
+pop,2,0,2
+r&b,2,3,3
+pop,1,1,3
+pop,2,0,2
+rock,0,0,1
+N/A,2,3,3
+r&b,2,0,2
+rock,2,0,1
+r&b,1,1,0
+rock,0,2,4
+pop,2,0,1
+hip hop,1,3,3
+N/A,0,0,1
+hip hop,1,1,0
+country,0,2,4
+country,0,0,1
+r&b,2,0,2
+r&b,2,0,2
+N/A,2,3,2
+soul,2,0,1
+r&b,1,3,3
+N/A,2,0,2
+rock,0,2,1
+r&b,2,0,2
+r&b,2,0,2
+rock,2,0,2
+rock,0,0,1
+rock,0,2,4
+pop,0,0,1
+r&b,2,0,2
+r&b,2,0,2
+pop,1,3,3
+N/A,2,3,2
+hip hop,1,1,0
+r&b,0,0,1
+country,2,0,2
+latin,2,3,2
+pop,2,0,2
+r&b,2,0,2
+r&b,2,0,2
+r&b,2,0,1
+N/A,2,3,2
+country,0,2,4
+country,0,2,1
+pop,2,0,2
+N/A,1,1,0
+rock,0,2,1
+hip hop,1,3,3
+hip hop,1,3,3
+r&b,2,3,2
+N/A,0,2,1
+country,2,0,2
+rock,0,0,1
+hip hop,1,1,0
+rock,2,0,2
+pop,2,3,2
+country,0,2,4
+pop,0,0,1
+rock,2,0,1
+country,0,0,1
+rock,2,0,2
+rock,2,0,2
+hip hop,2,3,2
+rock,2,0,1
+pop,1,1,0
+pop,0,0,1
+country,0,2,1
+rock,0,0,1
+r&b,1,1,0
+rock,0,0,1
+r&b,1,1,3
+pop,1,1,0
+r&b,1,1,0
+rock,0,0,1
+N/A,1,3,3
+pop,0,0,1
+soul,1,1,0
+pop,2,3,3
+r&b,2,0,1
+pop,2,3,2
+pop,2,0,2
+pop,2,0,2
+r&b,2,0,1
+r&b,2,3,2
+soul,2,0,2
+pop,2,0,2
+pop,2,0,2
+hip hop,1,1,0
+r&b,2,0,2
+pop,2,0,1
+hip hop,1,1,0
+N/A,2,0,2
+dance,2,0,1
+rock,2,0,2
+rock,0,2,1
+pop,0,0,1
+pop,2,3,3
+r&b,1,1,3
+rock,0,0,1
+country,2,0,1
+pop,0,0,1
+rock,2,0,2
+country,0,2,4
+pop,2,0,1
+r&b,1,3,3
+pop,1,3,3
+rock,0,0,1
+pop,2,3,3
+reggae,0,0,1
+hip hop,1,1,0
+N/A,2,3,2
+r&b,2,3,2
+rock,1,3,3
+pop,2,0,2
+pop,2,0,2
+rock,2,0,1
+rock,0,0,1
+rock,2,0,1
+hip hop,1,1,0
+pop,0,2,1
+r&b,1,1,3
+r&b,2,3,2
+r&b,0,2,1
+r&b,2,0,2
+pop,1,3,3
+rock,2,0,1
+hip hop,1,1,0
+r&b,2,3,2
+pop,0,0,1
+hip hop,1,1,0
+r&b,0,0,1
+hip hop,1,1,0
+country,2,0,2
+pop,2,3,2
+funk,2,3,2
+pop,2,0,2
+pop,2,3,2
+country,0,0,1
+country,0,0,1
+r&b,2,3,2
+country,0,0,1
+country,0,0,1
+rock,2,0,1
+r&b,1,3,3
+N/A,2,3,3
+country,0,0,1
+pop,0,2,4
+pop,2,0,2
+country,0,0,1
+r&b,2,3,2
+r&b,2,0,2
+N/A,1,3,3
+hip hop,2,0,1
+country,0,2,1
+r&b,1,3,3
+pop,1,3,3
+pop,2,0,2
+hip hop,2,0,1
+r&b,1,3,3
+rock,0,0,1
+soul,0,2,1
+soul,1,1,0
+pop,2,3,2
+hip hop,1,3,3
+rock,2,0,2
+pop,1,3,3
+rock,0,2,1
+rock,0,0,1
+pop,1,3,3
+r&b,1,1,3
+reggae,1,3,3
+r&b,1,1,0
+rock,0,0,1
+r&b,2,3,2
+r&b,1,1,0
+reggae,2,3,3
+rock,1,1,0
+rock,2,0,2
+r&b,1,3,3
+rock,0,2,1
+pop,1,1,3
+pop,1,1,0
+pop,2,3,2
+hip hop,1,1,3
+hip hop,1,1,3
+country,2,0,1
+hip hop,2,3,3
+rock,1,1,3
+hip hop,1,1,0
+soul,1,1,3
+country,0,0,1
+N/A,0,2,4
+pop,0,0,1
+hip hop,0,0,1
+r&b,2,0,2
+r&b,2,3,3
+soul,2,3,2
+rock,0,2,1
+r&b,0,0,1
+pop,2,0,2
+pop,1,1,3
+pop,2,3,2
+rock,0,0,1
+N/A,1,1,3
+rock,2,0,2
+rock,0,2,1
+r&b,2,3,3
+r&b,2,0,2
+r&b,1,3,3
+pop,0,0,1
+hip hop,1,1,3
+hip hop,2,3,2
+rock,0,0,1
+pop,2,0,2
+hip hop,1,1,0
+hip hop,2,3,2
+N/A,1,3,3
+N/A,0,2,4
+N/A,1,3,3
+pop,2,0,2
+r&b,2,3,2
+pop,2,0,1
+r&b,1,1,3
+rock,2,0,1
+country,0,0,1
+r&b,2,0,1
+r&b,2,3,3
+pop,1,1,0
+pop,2,3,2
+country,2,0,1
+hip hop,2,3,2
+country,0,0,1
+N/A,1,3,3
+rock,0,0,1
+country,0,0,1
+hip hop,1,1,3
+country,2,0,1
+N/A,1,1,0
+r&b,1,3,3
+disco,1,1,3
+country,2,0,1
+hip hop,2,3,2
+pop,2,3,2
+country,0,2,4
+country,0,2,4
+N/A,1,1,0
+country,2,0,1
+hip hop,1,1,3
+rock,0,2,1
+country,0,0,1
+N/A,0,0,1
+pop,2,0,2
+hip hop,1,1,0
+hip hop,1,1,3
+rock,0,0,1
+N/A,2,3,2
+hip hop,1,1,0
+pop,0,2,1
+rock,0,2,4
+rock,2,0,2
+hip hop,2,3,3
+hip hop,1,1,0
+hip hop,1,1,0
+rock,0,2,1
+rock,0,0,1
+rock,2,0,2
+hip hop,1,1,3
+r&b,2,3,2
+rock,2,0,2
+pop,2,3,2
+hip hop,1,1,3
+hip hop,1,3,3
+rock,0,0,1
+hip hop,1,1,0
+r&b,2,3,2
+soul,1,1,3
+hip hop,1,1,0
+soul,1,1,3
+rock,0,2,4
+hip hop,1,1,0
+pop,0,2,1
+pop,0,0,1
+N/A,2,0,1
+rock,0,0,1
+rock,0,2,1
+rock,0,0,1
+pop,2,0,1
+hip hop,1,3,3
+N/A,1,3,3
+pop,0,0,1
+rock,2,3,3
+pop,1,1,0
+r&b,1,3,3
+N/A,2,0,2
+N/A,2,0,2
+hip hop,1,1,0
+pop,2,0,1
+pop,0,0,1
+N/A,2,3,2
+hip hop,2,0,2
+N/A,0,0,1
+N/A,2,3,2
+N/A,1,1,0
+pop,2,0,2
+rock,0,2,1
+hip hop,1,1,0
+r&b,2,3,2
+pop,1,1,0
+hip hop,1,1,0
+soul,2,3,3
+r&b,2,3,2
+N/A,1,3,3
+hip hop,1,1,0
+hip hop,1,1,3
+country,2,0,2
+pop,2,0,2
+r&b,2,0,2
+rock,0,0,1
+r&b,2,3,3
+pop,2,3,2
+hip hop,1,1,0
+hip hop,1,1,0
+r&b,2,3,2
+r&b,1,1,0
+pop,0,0,1
+soul,1,1,3
+r&b,1,3,3
+hip hop,1,1,0
+hip hop,1,1,0
+rock,0,0,1
+rock,1,1,3
+hip hop,1,1,3
+hip hop,1,3,3
+pop,2,3,3
+N/A,1,1,0
+hip hop,1,1,0
+rock,0,0,1
+soul,2,3,3
+N/A,0,2,4
+hip hop,2,3,2
+country,2,0,2
+hip hop,1,1,3
+country,0,2,4
+r&b,2,3,3
+country,2,3,2
+N/A,0,0,1
+r&b,2,0,2
+r&b,2,3,3
+r&b,2,3,2
+pop,2,0,1
+pop,2,3,2
+country,0,2,4
+country,2,0,1
+rock,2,3,2
+pop,2,0,2
+country,2,0,2
+country,2,3,3
+pop,1,3,3
+N/A,1,3,3
+hip hop,1,1,3
+N/A,1,3,3
+hip hop,1,1,3
+N/A,1,1,0
+rock,2,0,2
+rock,2,0,1
+hip hop,1,1,0
+r&b,2,3,3
+rock,2,0,2
+N/A,2,0,1
+hip hop,1,1,0
+hip hop,1,1,0
+hip hop,1,1,0
+funk,1,3,3
+hip hop,1,1,0
+pop,0,2,1
+N/A,1,1,0
+pop,0,0,1
+rock,2,0,2
+hip hop,1,3,3
+hip hop,1,1,0
+hip hop,1,1,3
+hip hop,1,1,0
+hip hop,2,3,2
+hip hop,1,1,0
+hip hop,1,1,3
+pop,2,0,2
+hip hop,1,1,0
+hip hop,2,3,2
+pop,1,3,3
+r&b,1,1,0
+pop,1,3,3
+rock,0,0,1
+N/A,2,3,3
+country,0,2,4
+hip hop,1,1,0
+hip hop,1,3,3
+r&b,2,3,3
+r&b,2,3,2
+hip hop,1,1,0
+hip hop,0,0,1
+funk,1,1,0
+hip hop,1,1,0
+pop,2,0,1
+pop,2,0,1
+rock,1,1,0
+N/A,0,2,4
+N/A,0,0,1
+rock,2,0,1
+r&b,1,3,3
+hip hop,1,1,3
+pop,2,3,2
+rock,2,3,2
+hip hop,1,1,0
+hip hop,1,1,3
+pop,0,0,1
+country,2,0,2
+hip hop,1,1,0
+rock,0,0,1
+pop,2,0,2
+N/A,2,3,3
+rock,0,0,1
+hip hop,1,1,3
+r&b,2,3,2
+rock,2,0,2
+hip hop,1,1,0
+N/A,1,1,0
+country,2,0,2
+r&b,2,0,2
+rock,0,0,1
+r&b,2,3,2
+hip hop,1,1,0
+N/A,2,0,2
+r&b,1,1,0
+country,0,0,1
+hip hop,1,1,0
+N/A,1,3,3
+N/A,2,3,2
+pop,2,3,3
+funk,2,3,2
+pop,0,2,4
+r&b,1,3,3
+hip hop,2,3,2
+country,0,0,1
+hip hop,1,3,3
+country,2,0,1
+country,2,0,2
+r&b,0,2,1
+hip hop,1,1,0
+country,0,0,1
+country,0,2,4
+r&b,2,3,2
+hip hop,2,3,3
+N/A,2,3,2
+pop,2,3,2
+rock,0,2,4
+adult standards,0,2,4
+hip hop,1,1,0
+country,0,2,4
+r&b,2,0,2
+r&b,1,1,0
+r&b,1,1,3
+soul,0,0,1
+pop,2,0,1
+soul,2,3,3
+rock,0,2,1
+r&b,1,3,3
+hip hop,2,3,3
+hip hop,1,3,3
+hip hop,1,1,3
+hip hop,1,1,3
+r&b,1,3,3
+hip hop,1,1,0
+hip hop,1,1,0
+rock,0,0,1
+hip hop,1,1,0
+rock,2,0,1
+r&b,2,0,2
+rock,0,0,1
+hip hop,1,3,3
+hip hop,1,1,0
+pop,2,3,3
+hip hop,1,1,3
+r&b,1,3,3
+hip hop,1,1,0
+r&b,1,1,3
+N/A,2,3,2
+N/A,0,0,1
+soul,1,1,3
+hip hop,1,1,0
+hip hop,1,1,0
+r&b,1,1,0
+rock,0,0,1
+soul,0,0,1
+pop,2,0,1
+rock,0,0,1
+rock,0,2,4
+rock,0,2,4
+pop,0,0,1
+pop,2,3,3
+pop,2,3,2
+hip hop,2,3,2
+hip hop,2,3,3
+hip hop,1,3,3
+hip hop,1,1,3
+hip hop,1,3,3
+r&b,1,1,0
+pop,0,0,1
+hip hop,1,1,3
+pop,2,0,2
+rock,0,2,4
+hip hop,2,3,3
+r&b,2,3,3
+pop,2,3,2
+hip hop,2,3,2
+hip hop,1,1,0
+r&b,1,1,3
+pop,1,3,3
+hip hop,1,1,0
+hip hop,1,1,3
+hip hop,1,1,0
+hip hop,1,1,0
+N/A,2,3,2
+r&b,2,3,2
+hip hop,2,3,2
+rock,2,0,1
+hip hop,1,1,3
+rock,1,1,0
+hip hop,1,1,0
+hip hop,1,1,0
+funk,1,1,0
+r&b,2,3,2
+rock,0,2,1
+pop,2,0,2
+rock,2,3,2
+rock,0,0,1
+rock,0,0,1
+N/A,2,3,2
+rock,0,0,1
+hip hop,1,3,3
+country,2,0,2
+country,0,2,4
+pop,0,2,4
+hip hop,1,3,3
+reggae,1,1,0
+hip hop,1,1,0
+hip hop,1,1,0
+hip hop,0,2,4
+country,2,0,2
+country,0,2,1
+hip hop,1,1,3
+pop,2,0,2
+country,2,0,2
+N/A,1,1,0
+hip hop,1,3,3
+hip hop,2,3,3
+country,2,0,2
+hip hop,1,1,0
+country,2,0,2
+country,2,0,1
+pop,2,3,3
+pop,2,3,2
+r&b,2,3,2
+pop,0,0,1
+pop,2,3,2
+soul,1,1,0
+N/A,0,0,1
+N/A,1,3,3
+N/A,1,1,3
+pop,0,0,1
+hip hop,1,3,3
+rock,0,2,1
+hip hop,1,3,3
+pop,1,1,0
+pop,1,1,0
+rock,0,0,1
+hip hop,1,1,3
+pop,1,3,3
+hip hop,1,3,3
+rock,0,0,1
+N/A,2,3,3
+rock,2,3,2
+funk,1,1,0
+hip hop,1,1,3
+hip hop,1,3,3
+pop,1,1,0
+pop,2,0,2
+hip hop,2,3,3
+pop,1,1,3
+pop,1,1,3
+pop,1,3,3
+hip hop,0,2,4
+r&b,2,3,3
+r&b,2,3,2
+dance,0,0,1
+rock,2,0,2
+hip hop,2,3,3
+rock,0,0,1
+N/A,0,0,1
+rock,2,0,2
+r&b,1,3,3
+hip hop,1,1,0
+rock,2,3,2
+pop,2,3,3
+rock,0,0,1
+N/A,0,2,4
+r&b,2,3,2
+hip hop,2,3,3
+N/A,1,1,0
+hip hop,1,1,3
+hip hop,1,3,3
+hip hop,1,1,0
+hip hop,1,1,0
+r&b,1,3,3
+N/A,2,3,2
+soul,2,0,2
+pop,0,0,1
+rock,2,0,2
+hip hop,1,1,0
+pop,2,0,2
+pop,2,0,1
+hip hop,1,1,3
+hip hop,2,3,3
+pop,0,2,1
+hip hop,1,1,0
+pop,1,1,0
+r&b,1,1,3
+rock,2,0,1
+hip hop,1,3,3
+N/A,2,3,3
+country,0,0,1
+pop,2,0,1
+r&b,2,3,2
+r&b,1,1,3
+pop,2,0,2
+pop,0,2,4
+hip hop,1,1,0
+hip hop,1,1,3
+hip hop,1,1,0
+pop,2,3,2
+hip hop,1,1,3
+hip hop,2,3,2
+N/A,0,2,1
+country,2,0,2
+hip hop,2,3,2
+pop,1,3,3
+soul,2,0,2
+hip hop,1,3,3
+pop,2,0,2
+rock,0,2,1
+r&b,2,3,3
+hip hop,1,1,0
+hip hop,1,3,3
+hip hop,1,1,3
+hip hop,2,3,3
+rock,0,2,1
+r&b,2,3,2
+country,0,0,1
+hip hop,1,1,3
+hip hop,1,3,3
+rock,2,0,2
+hip hop,1,1,3
+N/A,1,3,3
+rock,0,2,4
+hip hop,1,1,3
+pop,2,0,2
+soul,0,2,1
+hip hop,1,1,0
+pop,1,1,3
+hip hop,1,1,0
+soul,2,3,3
+hip hop,1,1,0
+rock,2,0,1
+r&b,2,3,2
+pop,1,1,0
+hip hop,1,1,0
+pop,2,3,2
+hip hop,2,3,2
+pop,1,1,3
+rock,2,0,1
+rock,2,0,1
+pop,1,3,3
+rock,2,0,1
+hip hop,1,1,0
+hip hop,1,1,0
+country,0,0,1
+rock,2,0,2
+pop,2,0,2
+rock,0,2,4
+rock,0,0,1
+pop,0,2,1
+pop,1,3,3
+rock,2,0,1
+soul,1,1,0
+hip hop,1,1,0
+hip hop,1,1,0
+hip hop,1,1,0
+rock,2,3,2
+pop,2,0,1
+pop,2,0,2
+hip hop,1,1,0
+hip hop,0,2,4
+rock,2,3,3
+r&b,2,3,3
+pop,2,0,1
+hip hop,1,3,3
+hip hop,1,1,0
+rock,0,0,1
+rock,2,0,1
+pop,2,3,3
+pop,2,0,1
+hip hop,1,1,3
+rock,0,0,1
+pop,2,0,1
+N/A,1,1,3
+hip hop,1,1,0
+rock,2,0,1
+hip hop,2,3,2
+hip hop,1,1,0
+soul,2,3,2
+pop,1,1,0
+funk,1,1,0
+r&b,1,1,0
+pop,1,1,0
+hip hop,1,1,3
+pop,1,3,3
+r&b,1,1,0
+rock,2,0,2
+r&b,1,3,3
+hip hop,2,3,3
+rock,2,3,2
+pop,2,3,2
+hip hop,1,1,0
+reggae,2,3,2
+N/A,1,3,3
+country,2,3,2
+rock,0,2,4
+country,0,0,1
+hip hop,1,1,3
+pop,1,1,3
+hip hop,1,3,3
+rock,1,3,3
+rock,0,2,1
+pop,1,1,0
+N/A,1,1,0
+r&b,1,1,0
+N/A,0,0,1
+hip hop,1,1,0
+hip hop,2,3,3
+hip hop,1,1,0
+pop,2,3,2
+hip hop,1,1,0
+r&b,2,0,1
+pop,2,0,2
+hip hop,1,1,0
+N/A,2,3,3
+hip hop,2,3,3
+hip hop,2,3,3
+N/A,0,0,1
+pop,0,0,1
+r&b,2,3,3
+N/A,2,3,3
+pop,2,3,3
+pop,2,0,2
+hip hop,1,3,3
+country,0,0,1
+rock,2,0,2
+N/A,1,3,3
+pop,2,0,1
+pop,1,3,3
+pop,1,3,3
+pop,1,3,3
+pop,2,0,2
+hip hop,1,3,3
+pop,1,3,3
+hip hop,1,1,0
+rock,0,0,1
+hip hop,2,3,3
+pop,1,1,0
+hip hop,1,1,3
+hip hop,1,1,3
+pop,1,1,0
+N/A,1,3,3
+rock,2,0,2
+rock,0,0,1
+pop,1,1,0
+hip hop,1,1,0
+hip hop,1,1,3
+N/A,2,3,2
+rock,1,1,3
+hip hop,2,0,2
+rock,2,3,2
+N/A,1,3,3
+rock,1,1,0
+hip hop,1,1,3
+rock,1,3,3
+rock,2,0,1
+rock,0,2,4
+pop,2,3,2
+hip hop,1,1,3
+N/A,2,3,2
+N/A,1,1,0
+hip hop,1,1,0
+pop,1,1,0
+hip hop,1,1,3
+rock,0,0,1
+N/A,0,0,1
+r&b,2,0,2
+N/A,1,1,0
+rock,0,0,1
+hip hop,2,0,2
+rock,2,0,1
+hip hop,1,1,0
+hip hop,1,1,0
+rock,0,0,1
+hip hop,1,1,0
+pop,2,3,2
+hip hop,1,1,0
+pop,2,3,2
+N/A,1,1,0
+rock,0,2,4
+pop,2,0,1
+pop,1,1,3
+pop,2,0,2
+r&b,1,1,0
+hip hop,0,0,1
+pop,0,0,1
+pop,1,3,3
+N/A,0,2,1
+pop,2,0,2
+pop,2,3,3
+r&b,1,3,3
+hip hop,1,1,3
+soul,2,0,1
+hip hop,1,1,0
+soul,0,0,1
+pop,0,0,1
+rock,1,1,3
+pop,1,1,0
+hip hop,1,3,3
+pop,0,2,1
+r&b,2,0,2
+pop,2,3,2
+hip hop,1,3,3
+N/A,1,1,3
+rock,0,0,1
+hip hop,1,1,0
+N/A,1,1,0
+pop,0,0,1
+pop,2,3,2
+rock,2,3,3
+hip hop,1,1,0
+r&b,1,1,0
+rock,0,0,1
+hip hop,1,1,3
+pop,1,3,3
+rock,0,0,1
+rock,0,0,1
+funk,1,1,0
+N/A,1,1,3
+hip hop,1,1,3
+soul,2,0,2
+soul,0,0,1
+N/A,1,1,0
+hip hop,0,0,1
+N/A,2,0,1
+pop,2,3,2
+r&b,1,3,3
+r&b,1,3,3
+r&b,2,3,2
+r&b,1,1,0
+pop,0,0,1
+pop,0,0,1
+pop,0,0,1
+hip hop,1,3,3
+pop,1,3,3
+pop,1,1,3
+pop,2,3,2
+r&b,1,1,0
+pop,2,0,2
+pop,0,0,1
+pop,1,3,3
+N/A,2,3,3
+N/A,2,3,2
+rock,0,0,1
+pop,2,3,3
+pop,2,0,2
+pop,1,3,3
+N/A,1,3,3
+pop,2,3,2
+pop,2,0,2
+pop,2,0,2
+rock,0,0,1
+hip hop,2,3,3
+pop,2,0,2
+pop,2,3,2
+pop,1,1,0
+N/A,1,3,3
+N/A,1,1,3
+hip hop,1,1,0
+pop,2,0,2
+pop,1,3,3
+hip hop,1,3,3
+rock,0,0,1
+hip hop,1,1,0
+N/A,1,3,3
+soul,2,0,2
+pop,0,0,1
+pop,1,1,0
+funk,2,0,2
+hip hop,1,1,3
+rock,2,0,1
+soul,2,0,2
+hip hop,1,1,3
+rock,0,2,4
+hip hop,1,1,0
+pop,2,3,2
+rock,0,0,1
+hip hop,1,3,3
+N/A,2,0,1
+pop,2,3,2
+pop,2,3,2
+N/A,1,1,3
+r&b,2,3,2
+hip hop,2,3,2
+hip hop,1,1,0
+pop,0,0,1
+hip hop,1,1,0
+rock,0,0,1
+hip hop,1,3,3
+hip hop,1,3,3
+pop,1,1,3
+pop,2,0,1
+hip hop,2,0,2
+hip hop,1,3,3
+pop,2,3,2
+hip hop,2,3,3
+pop,2,0,2
+N/A,1,3,3
+pop,1,3,3
+pop,2,0,2
+soul,1,3,3
+pop,2,3,3
+hip hop,1,1,0
+rock,2,0,2
+pop,2,0,2
+rock,2,3,2
+N/A,1,1,0
+r&b,2,0,1
+r&b,2,0,2
+r&b,1,1,0
+pop,2,0,2
+country,2,0,1
+N/A,0,0,1
+rock,0,2,1
+hip hop,2,3,3
+rock,2,0,1
+rock,2,0,2
+r&b,1,3,3
+hip hop,1,1,0
+hip hop,2,3,3
+pop,1,3,3
+hip hop,2,3,3
+hip hop,1,3,3
+pop,2,0,2
+hip hop,1,3,3
+pop,2,0,2
+r&b,1,3,3
+hip hop,2,3,2
+rock,2,3,2
+pop,2,0,2
+pop,1,1,0
+rock,0,0,1
+rock,0,2,4
+r&b,1,1,0
+soul,1,1,0
+hip hop,1,3,3
+pop,1,1,0
+hip hop,2,0,2
+hip hop,2,3,2
+pop,0,0,1
+hip hop,1,1,0
+pop,0,2,4
+r&b,2,3,2
+pop,2,3,2
+rock,0,2,1
+pop,2,0,2
+hip hop,2,0,1
+pop,2,3,2
+rock,2,3,2
+hip hop,1,3,3
+hip hop,2,3,2
+hip hop,2,3,2
+pop,1,3,3
+pop,2,3,2
+pop,0,0,1
+hip hop,2,3,2
+N/A,2,0,2
+pop,1,3,3
+hip hop,1,3,3
+pop,1,1,3
+pop,2,3,2
+pop,2,0,2
+hip hop,2,0,2
+N/A,2,3,2
+hip hop,2,3,3
+N/A,1,3,3
+r&b,0,0,1
+r&b,1,3,3
+pop,2,0,2
+rock,2,3,2
+N/A,2,3,2
+pop,0,0,1
+hip hop,1,3,3
+pop,0,0,1
+pop,2,3,3
+pop,2,3,3
+pop,1,1,0
+pop,2,3,2
+rock,2,0,1
+rock,0,2,1
+soul,1,1,0
+rock,2,0,2
+pop,2,0,1
+N/A,1,1,0
+r&b,2,0,2
+hip hop,1,1,0
+pop,2,0,2
+pop,2,3,2
+rock,2,3,2
+hip hop,1,1,3
+pop,2,3,2
+hip hop,1,3,3
+pop,1,3,3
+country,2,0,2
+pop,0,0,1
+pop,1,3,3
+N/A,0,0,1
+hip hop,2,0,1
+hip hop,2,3,3
+country,2,0,2
+r&b,1,1,3
+hip hop,2,3,3
+country,0,0,1
+rock,2,3,2
+pop,1,1,3
+pop,2,0,2
+N/A,1,1,0
+pop,2,3,2
+country,0,2,1
+pop,2,0,1
+hip hop,1,1,0
+country,0,0,1
+country,2,0,1
+pop,2,0,1
+pop,2,0,2
+rock,1,3,3
+hip hop,1,1,3
+funk,2,0,1
+rock,0,2,1
+pop,2,3,2
+country,0,0,1
+pop,2,0,1
+pop,2,0,2
+r&b,1,1,3
+pop,1,1,0
+N/A,1,1,0
+pop,1,3,3
+pop,2,0,2
+pop,2,3,2
+hip hop,1,1,0
+pop,2,3,3
+hip hop,1,1,0
+pop,2,3,2
+pop,2,3,3
+N/A,1,3,3
+pop,2,0,2
+pop,0,0,1
+pop,2,3,3
+hip hop,2,3,3
+soul,1,1,0
+r&b,2,3,3
+hip hop,2,3,2
+hip hop,1,1,0
+hip hop,2,3,3
+pop,0,0,1
+rock,2,0,2
+pop,2,0,2
+hip hop,1,3,3
+rock,2,0,1
+pop,1,3,3
+hip hop,0,0,1
+pop,2,0,2
+pop,2,3,3
+hip hop,2,3,3
+hip hop,1,1,0
+N/A,2,3,3
+hip hop,1,1,0
+adult standards,2,0,2
+hip hop,1,1,3
+hip hop,2,3,2
+pop,0,0,1
+pop,1,3,3
+hip hop,2,3,2
+pop,2,0,2
+pop,2,0,2
+pop,2,0,2
+pop,2,3,3
+hip hop,1,1,0
+N/A,1,3,3
+rock,0,0,1
+pop,1,1,0
+hip hop,1,1,3
+rock,2,3,2
+pop,2,0,1
+hip hop,1,1,3
+pop,2,0,2
+hip hop,2,3,2
+pop,2,3,2
+hip hop,1,3,3
+rock,2,0,1
+pop,2,0,2
+rock,2,3,2
+pop,0,0,1
+r&b,1,3,3
+pop,2,3,3
+pop,2,3,2
+N/A,1,1,0
+pop,2,0,2
+pop,2,0,1
+N/A,1,1,0
+N/A,0,0,1
+hip hop,2,3,2
+pop,2,0,1
+hip hop,2,3,2
+rock,2,0,2
+pop,0,0,1
+soul,2,0,2
+N/A,1,1,0
+hip hop,1,1,0
+country,2,3,3
+r&b,1,3,3
+r&b,2,3,2
+pop,2,0,1
+hip hop,1,3,3
+r&b,2,0,2
+rock,0,2,4
+country,2,0,2
+pop,2,3,2
+N/A,1,1,3
+country,0,0,1
+country,2,0,2
+pop,0,0,1
+country,0,2,4
+pop,2,0,2
+rock,2,0,2
+rock,0,0,1
+hip hop,1,1,0
+soul,2,0,2
+country,2,0,1
+soul,2,3,3
+N/A,2,3,3
+pop,2,0,2
+N/A,2,0,2
+N/A,1,3,3
+pop,2,3,2
+hip hop,2,3,3
+pop,1,1,3
+pop,2,3,2
+hip hop,1,3,3
+hip hop,1,1,3
+pop,2,3,3
+rock,2,0,2
+pop,2,0,2
+pop,0,0,1
+pop,2,3,2
+N/A,2,0,2
+pop,1,3,3
+N/A,2,0,1
+N/A,1,3,3
+hip hop,1,1,0
+hip hop,1,1,0
+hip hop,2,3,2
+soul,2,0,1
+rock,2,0,2
+pop,2,0,2
+pop,2,0,2
+hip hop,1,1,3
+pop,2,3,2
+pop,2,3,2
+hip hop,1,3,3
+rock,2,3,2
+pop,2,3,2
+N/A,1,1,0
+country,2,0,2
+N/A,1,3,3
+hip hop,1,3,3
+pop,1,1,0
+hip hop,1,1,0
+pop,2,0,2
+hip hop,1,1,0
+country,2,0,1
+country,2,3,2
+pop,2,0,2
+hip hop,1,1,0
+pop,2,0,1
+hip hop,1,1,0
+pop,2,3,2
+r&b,2,3,2
+pop,1,3,3
+funk,1,1,0
+hip hop,2,3,3
+hip hop,2,0,1
+pop,2,0,2
+pop,2,0,1
+hip hop,1,3,3
+hip hop,0,0,1
+hip hop,0,0,1
+N/A,2,3,3
+pop,2,0,1
+r&b,2,0,2
+pop,2,3,2
+N/A,2,3,2
+pop,1,1,0
+r&b,2,3,3
+rock,2,0,2
+country,2,0,1
+country,0,0,1
+r&b,0,0,1
+r&b,1,3,3
+pop,2,0,2
+N/A,2,3,3
+pop,0,2,4
+pop,2,0,2
+pop,2,0,2
+country,0,2,1
+pop,2,3,2
+pop,2,3,2
+country,0,0,1
+N/A,2,0,1
+country,2,3,3
+country,2,0,1
+pop,2,0,2
+hip hop,1,3,3
+hip hop,2,3,3
+r&b,2,3,2
+pop,2,3,2
+N/A,1,1,3
+r&b,1,3,3
+country,2,0,2
+pop,2,0,1
+r&b,1,3,3
+hip hop,2,3,3
+country,0,0,1
+N/A,1,1,0
+country,2,0,1
+rock,2,0,1
+country,0,2,4
+country,2,0,2
+hip hop,1,1,0
+pop,2,0,2
+pop,2,0,2
+r&b,2,0,1
+N/A,1,3,3
+pop,0,0,1
+pop,2,0,1
+pop,2,0,2
+pop,0,0,1
+pop,2,0,2
+pop,2,3,2
+hip hop,2,3,2
+soul,2,0,1
+hip hop,0,0,1
+rock,2,3,3
+pop,2,0,1
+hip hop,2,3,3
+hip hop,2,3,3
+pop,2,3,2
+pop,2,0,2
+hip hop,1,3,3
+pop,2,0,2
+rock,0,0,1
+N/A,2,3,2
+pop,0,2,4
+pop,0,0,1
+pop,2,0,1
+N/A,1,3,3
+pop,2,0,2
+N/A,2,3,3
+rock,0,0,1
+pop,2,0,2
+funk,1,3,3
+pop,2,0,2
+hip hop,1,3,3
+pop,2,3,2
+pop,2,3,2
+N/A,1,3,3
+pop,2,3,2
+pop,2,0,2
+N/A,1,3,3
+pop,2,0,1
+pop,0,2,4
+soul,2,0,1
+r&b,2,0,2
+hip hop,2,3,2
+hip hop,2,0,2
+hip hop,0,0,1
+r&b,1,3,3
+rock,0,2,4
+r&b,0,2,4
+pop,2,3,3
+country,0,0,1
+country,2,0,1
+hip hop,1,1,0
+pop,1,3,3
+r&b,2,0,1
+pop,2,3,2
+country,2,0,2
+pop,2,3,2
+rock,2,0,2
+N/A,1,3,3
+hip hop,2,0,2
+hip hop,1,1,3
+soul,2,0,2
+r&b,2,3,2
+country,2,0,2
+country,0,2,1
+pop,0,2,1
+pop,0,2,4
+country,0,2,1
+soul,2,3,3
+r&b,2,0,1
+hip hop,1,3,3
+pop,2,0,2
+pop,0,0,1
+country,0,0,1
+pop,2,0,1
+r&b,2,3,3
+N/A,1,1,3
+hip hop,1,3,3
+pop,2,0,2
+country,2,0,2
+pop,2,0,2
+r&b,1,3,3
+pop,2,0,2
+pop,1,1,0
+pop,0,2,4
+country,2,0,1
+pop,2,3,2
+hip hop,0,0,1
+rock,2,0,1
+hip hop,1,1,0
+country,2,0,1
+pop,2,0,1
+country,0,0,1
+country,2,0,1
+r&b,2,0,2
+country,0,2,1
+country,0,0,1
+rock,0,0,1
+hip hop,1,1,0
+r&b,1,1,0
+rock,0,2,1
+hip hop,0,2,4
+N/A,1,1,0
+pop,1,1,0
+N/A,2,0,2
+pop,0,0,1
+country,1,3,3
+pop,2,3,2
+pop,0,0,1
+pop,0,2,1
+hip hop,0,2,1
+N/A,0,2,1
+pop,2,0,2
+pop,2,0,2
+pop,1,3,3
+pop,2,0,1
+pop,0,2,4
+hip hop,1,1,3
+N/A,0,0,1
+pop,1,1,3
+pop,1,3,3
+pop,2,0,1
+rock,0,2,4
+pop,0,0,1
+pop,2,0,1
+pop,0,0,1
+rock,0,0,1
+pop,2,0,1
+hip hop,1,1,3
+hip hop,2,3,2
+pop,2,3,2
+hip hop,0,0,1
+pop,2,0,2
+pop,2,3,2
+pop,2,3,2
+pop,2,3,2
+hip hop,1,1,3
+rock,2,3,2
+hip hop,1,1,0
+r&b,2,0,2
+hip hop,1,3,3
+pop,0,0,1
+dance,0,0,1
+rock,0,2,4
+rock,2,0,1
+r&b,1,1,3
+soul,2,0,1
+pop,2,0,2
+pop,2,0,2
+rock,0,2,4
+N/A,2,0,1
+country,2,0,1
+hip hop,0,2,4
+pop,0,0,1
+pop,2,0,2
+rock,2,3,3
+hip hop,1,1,3
+country,2,3,3
+rock,2,0,2
+rock,2,0,1
+rock,2,3,3
+hip hop,1,3,3
+rock,2,0,1
+pop,2,3,2
+hip hop,1,1,0
+pop,2,0,2
+country,2,0,1
+pop,2,3,2
+pop,2,3,2
+country,2,3,2
+N/A,2,0,2
+pop,2,3,2
+pop,2,0,1
+rock,2,0,1
+country,2,3,2
+country,2,0,2
+hip hop,1,1,0
+country,2,0,2
+r&b,0,0,1
+pop,2,3,2
+pop,2,0,2
+r&b,2,0,2
+hip hop,2,3,2
+pop,2,0,2
+hip hop,1,3,3
+soul,0,0,1
+country,2,0,1
+country,0,0,1
+hip hop,1,3,3
+country,0,0,1
+country,2,0,2
+country,0,0,1
+N/A,2,0,2
+pop,2,0,2
+pop,2,0,2
+country,2,0,2
+hip hop,1,3,3
+pop,2,0,1
+hip hop,2,3,2
+hip hop,0,0,1
+soul,2,0,2
+N/A,0,2,4
+rock,2,3,3
+hip hop,2,0,2
+reggae,2,0,2
+pop,2,3,2
+pop,2,3,3
+pop,0,2,4
+pop,2,3,2
+rock,2,0,2
+pop,1,3,3
+hip hop,2,3,2
+hip hop,0,2,4
+N/A,1,1,3
+N/A,0,2,4
+pop,2,0,2
+pop,2,0,2
+pop,2,0,2
+N/A,0,0,1
+pop,0,2,4
+rock,2,0,1
+pop,2,0,2
+pop,2,0,2
+hip hop,2,3,3
+hip hop,1,3,3
+pop,0,0,1
+pop,2,3,2
+hip hop,1,1,3
+rock,2,0,2
+pop,2,0,2
+pop,0,2,4
+pop,2,0,2
+N/A,1,3,3
+pop,1,1,3
+pop,2,0,1
+pop,2,0,2
+pop,2,3,2
+pop,2,3,2
+N/A,2,3,2
+hip hop,1,1,0
+hip hop,1,1,3
+pop,2,0,1
+pop,2,3,2
+pop,2,3,2
+pop,1,3,3
+r&b,2,3,3
+country,2,3,2
+hip hop,2,3,2
+pop,0,2,4
+pop,1,3,3
+pop,2,3,3
+hip hop,0,2,4
+N/A,0,0,1
+pop,1,3,3
+rock,0,2,1
+hip hop,1,1,3
+rock,0,0,1
+pop,0,2,4
+pop,2,0,2
+pop,2,3,2
+country,2,3,2
+country,2,3,2
+hip hop,2,3,3
+country,2,3,2
+rock,2,3,2
+country,2,0,2
+pop,2,3,2
+rock,2,0,2
+pop,0,2,4
+hip hop,1,1,0
+country,2,0,1
+pop,2,0,2
+rock,2,0,1
+country,2,0,2
+hip hop,1,3,3
+pop,2,0,2
+country,2,0,2
+pop,2,0,2
+country,2,0,1
+r&b,2,3,3
+r&b,1,1,0
+N/A,1,3,3
+pop,2,0,1
+pop,2,3,2
+hip hop,1,1,0
+rock,2,0,1
+N/A,1,1,0
+hip hop,1,1,3
+country,0,0,1
+hip hop,1,1,3
+pop,2,0,1
+pop,2,0,1
+r&b,1,1,3
+r&b,2,3,3
+hip hop,1,1,0
+country,0,2,4
+country,2,0,1
+pop,0,2,4
+soul,1,3,3
+pop,2,0,1
+N/A,2,3,2
+hip hop,1,3,3
+pop,2,3,2
+rock,2,0,1
+pop,2,3,3
+hip hop,2,0,2
+r&b,0,0,1
+r&b,2,3,2
+pop,2,0,1
+r&b,2,3,2
+pop,2,0,2
+pop,2,0,2
+N/A,2,3,3
+hip hop,0,2,4
+pop,2,3,2
+pop,1,3,3
+dance,2,0,1
+pop,2,0,2
+hip hop,2,3,3
+pop,2,3,3
+pop,1,3,3
+r&b,1,1,0
+pop,2,0,2
+pop,0,0,1
+pop,2,3,2
+pop,2,3,2
+pop,2,0,2
+hip hop,2,0,2
+N/A,2,3,2
+hip hop,2,3,2
+pop,2,3,2
+pop,0,0,1
+soul,2,0,2
+pop,2,0,2
+pop,2,3,2
+pop,2,0,2
+N/A,1,3,3
+reggae,1,3,3
+N/A,2,0,2
+N/A,0,0,1
+rock,2,0,1
+hip hop,2,3,2
+country,2,3,2
+pop,2,3,2
+hip hop,1,1,0
+pop,2,0,2
+hip hop,2,3,3
+hip hop,2,0,2
+N/A,1,1,0
+pop,2,0,2
+pop,2,0,1
+rock,0,2,4
+r&b,1,3,3
+pop,2,3,2
+pop,2,0,2
+pop,0,2,4
+N/A,2,0,1
+rock,2,0,1
+r&b,2,3,3
+pop,2,0,2
+country,0,2,4
+pop,0,0,1
+pop,2,0,1
+N/A,1,3,3
+pop,2,0,2
+pop,0,0,1
+hip hop,1,3,3
+hip hop,2,3,2
+pop,2,0,2
+N/A,2,3,3
+rock,2,0,2
+pop,2,0,2
+pop,2,0,2
+country,2,0,2
+pop,2,0,2
+N/A,0,2,1
+hip hop,2,0,2
+hip hop,1,3,3
+pop,0,2,1
+N/A,1,3,3
+N/A,2,3,2
+hip hop,1,1,0
+country,2,0,2
+r&b,1,1,3
+country,2,0,1
+hip hop,1,1,0
+pop,0,0,1
+pop,2,0,2
+pop,2,0,2
+pop,1,3,3
+pop,2,0,2
+r&b,2,3,2
+hip hop,0,2,4
+reggae,2,0,2
+hip hop,2,3,3
+pop,2,0,2
+hip hop,2,3,3
+N/A,2,0,2
+pop,2,3,2
+pop,2,0,2
+pop,2,0,2
+N/A,2,3,3
+rock,2,3,2
+hip hop,1,3,3
+soul,2,0,2
+pop,2,0,2
+pop,2,3,2
+pop,2,0,1
+pop,2,3,3
+pop,2,3,2
+pop,0,0,1
+hip hop,2,0,2
+pop,2,0,2
+N/A,2,3,2
+pop,0,0,1
+pop,2,3,3
+N/A,1,1,0
+rock,2,0,2
+rock,2,0,1
+pop,2,0,1
+pop,2,0,2
+hip hop,2,0,2
+N/A,0,0,1
+soul,2,0,2
+pop,2,0,1
+pop,0,0,1
+N/A,0,0,1
+N/A,1,1,0
+pop,2,3,2
+r&b,2,3,2
+N/A,2,3,2
+hip hop,1,3,3
+r&b,2,0,2
+pop,2,3,2
+hip hop,2,3,2
+pop,2,3,3
+r&b,2,3,2
+pop,2,0,2
+hip hop,2,3,2
+country,2,0,2
+pop,0,2,1
+rock,0,0,1
+pop,1,3,3
+pop,2,3,2
+N/A,2,0,2
+hip hop,2,3,3
+country,0,0,1
+pop,2,3,2
+pop,2,3,2
+pop,2,3,3
+r&b,2,3,2
+hip hop,2,3,3
+hip hop,2,0,2
+pop,2,0,1
+hip hop,1,1,0
+N/A,1,3,3
+hip hop,2,3,2
+pop,2,0,2
+r&b,2,0,2
+pop,2,0,2
+rock,2,0,2
+country,0,0,1
+hip hop,2,3,3
+pop,2,3,2
+rock,0,2,4
+rock,1,3,3
+hip hop,1,1,0
+hip hop,2,3,2
+r&b,2,3,2
+r&b,2,3,2
+pop,2,0,2
+hip hop,1,3,3
+hip hop,2,3,3
+r&b,2,0,2
+pop,2,3,3
+pop,2,3,3
+pop,2,0,2
+N/A,0,2,4
+pop,2,3,2
+hip hop,2,0,2
+soul,2,0,2
+pop,2,0,1
+hip hop,0,2,4
+pop,1,1,0
+hip hop,1,1,0
+hip hop,2,0,2
+r&b,2,3,3
+r&b,1,3,3
+hip hop,1,1,3
+hip hop,1,3,3
+hip hop,2,3,2
+pop,0,0,1
+pop,0,0,1
+country,0,0,1
+hip hop,2,0,2
+hip hop,1,1,3
+N/A,2,3,2
+pop,2,3,2
+pop,1,3,3
+pop,2,3,2
+pop,2,3,3
+hip hop,1,3,3
+pop,2,0,1
+hip hop,1,1,0
+pop,2,0,1
+country,0,0,1
+rock,2,0,2
+hip hop,2,3,3
+pop,2,0,2
+N/A,1,1,0
+hip hop,2,3,2
+hip hop,2,3,2
+hip hop,2,3,2
+pop,2,3,2
+r&b,0,0,1
+N/A,2,3,2
+hip hop,1,3,3
+N/A,1,3,3
+r&b,2,0,1
+pop,2,3,3
+pop,2,0,1
+hip hop,1,1,3
+hip hop,0,0,1
+hip hop,2,0,2
+pop,2,0,2
+hip hop,1,1,0
+pop,2,0,2
+r&b,2,3,2
+hip hop,1,3,3
+pop,0,0,1
+pop,2,0,1
+N/A,2,3,3
+hip hop,1,1,3
+pop,1,1,3
+hip hop,2,3,2
+pop,1,3,3
+pop,2,3,3
+pop,2,0,1
+hip hop,1,3,3
+pop,2,3,2
+pop,2,3,3
+N/A,1,3,3
+rock,2,0,1
+N/A,2,0,2
+pop,2,3,2
+hip hop,1,1,0
+pop,2,3,2
+reggae,2,3,2
+rock,0,0,1
+hip hop,1,3,3
+hip hop,1,1,0
+pop,2,0,1
+hip hop,1,3,3
+hip hop,2,3,2
+country,0,0,1
+rock,2,0,1
+pop,2,3,2
+hip hop,2,3,3
+hip hop,1,1,3
+hip hop,1,1,0
+N/A,2,0,2
+hip hop,2,3,2
+hip hop,0,2,1
+hip hop,2,0,1
+pop,0,0,1
+hip hop,2,3,3
+N/A,1,3,3
+hip hop,1,3,3
+pop,2,3,3
+country,2,3,2
+reggae,2,3,2
+pop,2,3,2
+hip hop,2,0,2
+country,0,0,1
+pop,2,0,2
+r&b,0,0,1
+hip hop,2,3,2
+pop,1,3,3
+N/A,1,3,3
+pop,0,0,1
+hip hop,2,3,2
+N/A,2,0,1
+pop,2,3,2
+hip hop,1,1,0
+pop,2,0,1
+soul,2,3,2
+pop,0,0,1
+pop,2,3,2
+N/A,0,0,1
+pop,0,0,1
+hip hop,1,1,0
+country,2,0,2
+hip hop,1,3,3
+pop,2,3,2
+N/A,2,3,2
+hip hop,2,3,3
+hip hop,2,0,1
+country,2,3,2
+hip hop,2,0,2
+pop,0,0,1
+country,2,0,2
+pop,2,3,2
+hip hop,2,3,2
+hip hop,2,3,3
+N/A,1,1,0
+country,2,0,2
+hip hop,1,3,3
+pop,2,0,2
+hip hop,1,1,0
+hip hop,2,3,3
+hip hop,2,3,2
+hip hop,1,3,3
+r&b,2,3,2
+pop,2,3,2
+hip hop,0,0,1
+pop,2,3,2
+r&b,2,0,2
+pop,1,3,3
+pop,0,2,1
+rock,0,0,1
+hip hop,1,3,3
+pop,2,3,3
+N/A,2,3,2
+pop,2,3,2
+pop,2,3,2
+hip hop,1,1,3
+hip hop,1,3,3
+hip hop,1,1,0
+hip hop,2,3,3
+country,2,0,1
+rock,2,0,1
+hip hop,1,1,0
+pop,0,0,1
+pop,2,3,2
+rock,2,3,2
+hip hop,1,3,3
+hip hop,2,0,1
+N/A,2,3,3
+pop,2,3,2
+hip hop,1,1,0
+hip hop,1,1,0
+hip hop,2,0,1
+N/A,1,1,0
+pop,0,0,1
+pop,2,3,2
+hip hop,1,1,3
+pop,2,0,2
+N/A,1,3,3
+hip hop,1,3,3
+hip hop,1,1,3
+country,0,0,1
+hip hop,1,1,3
+hip hop,1,3,3
+hip hop,2,3,2
+hip hop,2,3,2
+pop,2,0,2
+hip hop,1,3,3
+pop,2,0,2
+N/A,1,1,0
+pop,2,3,2
+N/A,1,1,0
+pop,2,3,2
+pop,2,0,1
+pop,2,0,2
+r&b,0,0,1
+pop,0,0,1
+rock,2,0,1
+country,0,2,1
+pop,1,3,3
+hip hop,1,1,0
+N/A,1,1,0
+hip hop,1,3,3
+r&b,1,3,3
+country,2,0,1
+pop,2,3,2
+r&b,2,0,1
+hip hop,1,1,0
+pop,2,0,2
+reggae,1,1,0
+country,2,0,2
+hip hop,1,3,3
+hip hop,1,3,3
+pop,2,3,2
+hip hop,2,3,2
+country,2,0,1
+hip hop,0,0,1
+pop,2,3,2
+reggae,2,0,2
+hip hop,2,3,2
+r&b,1,3,3
+reggae,2,3,2
+hip hop,0,2,4
+country,0,2,1
+country,2,0,2
+hip hop,1,1,0
+pop,2,3,2
+reggae,2,3,2
+rock,2,0,2
